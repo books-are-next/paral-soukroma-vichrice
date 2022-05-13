@@ -1,0 +1,5 @@
+---
+contentType: prose
+---
+
+Třetí stadium

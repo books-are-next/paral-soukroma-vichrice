@@ -1,0 +1,290 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Soukromá vichřice",
+    "identifier": "urn:uuid:5f76c5f6-9881-4c4d-871b-64886c2d20c6",
+    "author": "Vladimír Páral",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2019-02-26T00:00:00.000Z",
+    "published": "2019-02-25T00:00:00.000Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign",
+    "Sigil version": "0.8.1"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/soukroma_vichrice_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/soukroma_vichrice_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/soukroma_vichrice_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/soukroma_vichrice_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/soukroma_vichrice_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/soukroma_vichrice_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/soukroma_vichrice_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/soukroma_vichrice_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/soukroma_vichrice_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/soukroma_vichrice_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/soukroma_vichrice_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/soukroma_vichrice_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/soukroma_vichrice_013.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/soukroma_v_idstyles.css"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image001_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image002_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/obalka_soukroma_vichric_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+    }
+  ],
+  "toc": [
+    {
+      "title": "První stadium",
+      "children": [
+        {
+          "title": "B – 1",
+          "href": "OEBPS/Text/soukroma_vichrice_006.xhtml#toc_marker-1-1"
+        },
+        {
+          "title": "A – 1",
+          "href": "OEBPS/Text/soukroma_vichrice_006.xhtml#toc_marker-1-2"
+        },
+        {
+          "title": "B – 1",
+          "href": "OEBPS/Text/soukroma_vichrice_006.xhtml#toc_marker-1-3"
+        },
+        {
+          "title": "A – 1",
+          "href": "OEBPS/Text/soukroma_vichrice_006.xhtml#toc_marker-1-4"
+        },
+        {
+          "title": "B – 1",
+          "href": "OEBPS/Text/soukroma_vichrice_006.xhtml#toc_marker-1-5"
+        },
+        {
+          "title": "A – 1",
+          "href": "OEBPS/Text/soukroma_vichrice_006.xhtml#toc_marker-1-6"
+        },
+        {
+          "title": "B – 1",
+          "href": "OEBPS/Text/soukroma_vichrice_006.xhtml#toc_marker-1-7"
+        },
+        {
+          "title": "A – 1",
+          "href": "OEBPS/Text/soukroma_vichrice_006.xhtml#toc_marker-1-8"
+        },
+        {
+          "title": "B – 1",
+          "href": "OEBPS/Text/soukroma_vichrice_006.xhtml#toc_marker-1-9"
+        },
+        {
+          "title": "A – 1",
+          "href": "OEBPS/Text/soukroma_vichrice_006.xhtml#toc_marker-1-10"
+        },
+        {
+          "title": "AB – 1",
+          "href": "OEBPS/Text/soukroma_vichrice_006.xhtml#toc_marker-1-11"
+        }
+      ],
+      "href": "OEBPS/Text/soukroma_vichrice_005.xhtml#toc_marker-1"
+    },
+    {
+      "title": "Druhé stadium",
+      "children": [
+        {
+          "title": "J – 1",
+          "href": "OEBPS/Text/soukroma_vichrice_008.xhtml#toc_marker-2-1"
+        },
+        {
+          "title": "B – 2",
+          "href": "OEBPS/Text/soukroma_vichrice_008.xhtml#toc_marker-2-2"
+        },
+        {
+          "title": "S – 1",
+          "href": "OEBPS/Text/soukroma_vichrice_008.xhtml#toc_marker-2-3"
+        },
+        {
+          "title": "A – 2",
+          "href": "OEBPS/Text/soukroma_vichrice_008.xhtml#toc_marker-2-4"
+        },
+        {
+          "title": "J – 2",
+          "href": "OEBPS/Text/soukroma_vichrice_008.xhtml#toc_marker-2-5"
+        },
+        {
+          "title": "B – 3",
+          "href": "OEBPS/Text/soukroma_vichrice_008.xhtml#toc_marker-2-6"
+        },
+        {
+          "title": "S – 2",
+          "href": "OEBPS/Text/soukroma_vichrice_008.xhtml#toc_marker-2-7"
+        },
+        {
+          "title": "A – 3",
+          "href": "OEBPS/Text/soukroma_vichrice_008.xhtml#toc_marker-2-8"
+        },
+        {
+          "title": "J – 3",
+          "href": "OEBPS/Text/soukroma_vichrice_008.xhtml#toc_marker-2-9"
+        },
+        {
+          "title": "S – 3",
+          "href": "OEBPS/Text/soukroma_vichrice_008.xhtml#toc_marker-2-10"
+        },
+        {
+          "title": "A – 4",
+          "href": "OEBPS/Text/soukroma_vichrice_008.xhtml#toc_marker-2-11"
+        },
+        {
+          "title": "J – 4",
+          "href": "OEBPS/Text/soukroma_vichrice_008.xhtml#toc_marker-2-12"
+        },
+        {
+          "title": "B – 4",
+          "href": "OEBPS/Text/soukroma_vichrice_008.xhtml#toc_marker-2-13"
+        },
+        {
+          "title": "S – 4",
+          "href": "OEBPS/Text/soukroma_vichrice_008.xhtml#toc_marker-2-14"
+        }
+      ],
+      "href": "OEBPS/Text/soukroma_vichrice_007.xhtml#toc_marker-2"
+    },
+    {
+      "title": "Třetí stadium",
+      "children": [
+        {
+          "title": "A – 5",
+          "href": "OEBPS/Text/soukroma_vichrice_010.xhtml#toc_marker-3-1"
+        },
+        {
+          "title": "J – 5",
+          "href": "OEBPS/Text/soukroma_vichrice_010.xhtml#toc_marker-3-2"
+        },
+        {
+          "title": "B – 5",
+          "href": "OEBPS/Text/soukroma_vichrice_010.xhtml#toc_marker-3-3"
+        },
+        {
+          "title": "S – 5",
+          "href": "OEBPS/Text/soukroma_vichrice_010.xhtml#toc_marker-3-4"
+        },
+        {
+          "title": "A – 6",
+          "href": "OEBPS/Text/soukroma_vichrice_010.xhtml#toc_marker-3-5"
+        },
+        {
+          "title": "J – 6",
+          "href": "OEBPS/Text/soukroma_vichrice_010.xhtml#toc_marker-3-6"
+        },
+        {
+          "title": "S – 6",
+          "href": "OEBPS/Text/soukroma_vichrice_010.xhtml#toc_marker-3-7"
+        },
+        {
+          "title": "B - 6",
+          "href": "OEBPS/Text/soukroma_vichrice_010.xhtml#toc_marker-3-8"
+        },
+        {
+          "title": "A – 7",
+          "href": "OEBPS/Text/soukroma_vichrice_010.xhtml#toc_marker-3-9"
+        },
+        {
+          "title": "S – 7",
+          "href": "OEBPS/Text/soukroma_vichrice_010.xhtml#toc_marker-3-10"
+        },
+        {
+          "title": "J – 7",
+          "href": "OEBPS/Text/soukroma_vichrice_010.xhtml#toc_marker-3-11"
+        },
+        {
+          "title": "B – 7",
+          "href": "OEBPS/Text/soukroma_vichrice_010.xhtml#toc_marker-3-12"
+        },
+        {
+          "title": "J – 8",
+          "href": "OEBPS/Text/soukroma_vichrice_010.xhtml#toc_marker-3-13"
+        },
+        {
+          "title": "A – 8",
+          "href": "OEBPS/Text/soukroma_vichrice_010.xhtml#toc_marker-3-14"
+        },
+        {
+          "title": "B – 8",
+          "href": "OEBPS/Text/soukroma_vichrice_010.xhtml#toc_marker-3-15"
+        },
+        {
+          "title": "S – 8",
+          "href": "OEBPS/Text/soukroma_vichrice_010.xhtml#toc_marker-3-16"
+        }
+      ],
+      "href": "OEBPS/Text/soukroma_vichrice_009.xhtml#toc_marker-3"
+    },
+    {
+      "title": "První stadium",
+      "children": [
+        {
+          "title": "(BJ) – 1",
+          "href": "OEBPS/Text/soukroma_vichrice_012.xhtml#toc_marker-4-1"
+        }
+      ],
+      "href": "OEBPS/Text/soukroma_vichrice_011.xhtml#toc_marker-4"
+    }
+  ]
+}

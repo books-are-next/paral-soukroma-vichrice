@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:5f76c5f6-9881-4c4d-871b-64886c2d20c6" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Soukromá vichřice</text>
+  </docTitle>
+  <docAuthor>
+    <text>Vladimír Páral</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>První stadium</text>
+      </navLabel>
+      <content src="Text/soukroma_vichrice_005.xhtml#toc_marker-1"/>
+      <navPoint id="navpoint2" playOrder="2">
+        <navLabel>
+          <text>B – 1</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_006.xhtml#toc_marker-1-1"/>
+      </navPoint>
+      <navPoint id="navpoint3" playOrder="3">
+        <navLabel>
+          <text>A – 1</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_006.xhtml#toc_marker-1-2"/>
+      </navPoint>
+      <navPoint id="navpoint4" playOrder="4">
+        <navLabel>
+          <text>B – 1</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_006.xhtml#toc_marker-1-3"/>
+      </navPoint>
+      <navPoint id="navpoint5" playOrder="5">
+        <navLabel>
+          <text>A – 1</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_006.xhtml#toc_marker-1-4"/>
+      </navPoint>
+      <navPoint id="navpoint6" playOrder="6">
+        <navLabel>
+          <text>B – 1</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_006.xhtml#toc_marker-1-5"/>
+      </navPoint>
+      <navPoint id="navpoint7" playOrder="7">
+        <navLabel>
+          <text>A – 1</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_006.xhtml#toc_marker-1-6"/>
+      </navPoint>
+      <navPoint id="navpoint8" playOrder="8">
+        <navLabel>
+          <text>B – 1</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_006.xhtml#toc_marker-1-7"/>
+      </navPoint>
+      <navPoint id="navpoint9" playOrder="9">
+        <navLabel>
+          <text>A – 1</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_006.xhtml#toc_marker-1-8"/>
+      </navPoint>
+      <navPoint id="navpoint10" playOrder="10">
+        <navLabel>
+          <text>B – 1</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_006.xhtml#toc_marker-1-9"/>
+      </navPoint>
+      <navPoint id="navpoint11" playOrder="11">
+        <navLabel>
+          <text>A – 1</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_006.xhtml#toc_marker-1-10"/>
+      </navPoint>
+      <navPoint id="navpoint12" playOrder="12">
+        <navLabel>
+          <text>AB – 1</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_006.xhtml#toc_marker-1-11"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint13" playOrder="13">
+      <navLabel>
+        <text>Druhé stadium</text>
+      </navLabel>
+      <content src="Text/soukroma_vichrice_007.xhtml#toc_marker-2"/>
+      <navPoint id="navpoint14" playOrder="14">
+        <navLabel>
+          <text>J – 1</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_008.xhtml#toc_marker-2-1"/>
+      </navPoint>
+      <navPoint id="navpoint15" playOrder="15">
+        <navLabel>
+          <text>B – 2</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_008.xhtml#toc_marker-2-2"/>
+      </navPoint>
+      <navPoint id="navpoint16" playOrder="16">
+        <navLabel>
+          <text>S – 1</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_008.xhtml#toc_marker-2-3"/>
+      </navPoint>
+      <navPoint id="navpoint17" playOrder="17">
+        <navLabel>
+          <text>A – 2</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_008.xhtml#toc_marker-2-4"/>
+      </navPoint>
+      <navPoint id="navpoint18" playOrder="18">
+        <navLabel>
+          <text>J – 2</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_008.xhtml#toc_marker-2-5"/>
+      </navPoint>
+      <navPoint id="navpoint19" playOrder="19">
+        <navLabel>
+          <text>B – 3</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_008.xhtml#toc_marker-2-6"/>
+      </navPoint>
+      <navPoint id="navpoint20" playOrder="20">
+        <navLabel>
+          <text>S – 2</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_008.xhtml#toc_marker-2-7"/>
+      </navPoint>
+      <navPoint id="navpoint21" playOrder="21">
+        <navLabel>
+          <text>A – 3</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_008.xhtml#toc_marker-2-8"/>
+      </navPoint>
+      <navPoint id="navpoint22" playOrder="22">
+        <navLabel>
+          <text>J – 3</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_008.xhtml#toc_marker-2-9"/>
+      </navPoint>
+      <navPoint id="navpoint23" playOrder="23">
+        <navLabel>
+          <text>S – 3</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_008.xhtml#toc_marker-2-10"/>
+      </navPoint>
+      <navPoint id="navpoint24" playOrder="24">
+        <navLabel>
+          <text>A – 4</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_008.xhtml#toc_marker-2-11"/>
+      </navPoint>
+      <navPoint id="navpoint25" playOrder="25">
+        <navLabel>
+          <text>J – 4</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_008.xhtml#toc_marker-2-12"/>
+      </navPoint>
+      <navPoint id="navpoint26" playOrder="26">
+        <navLabel>
+          <text>B – 4</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_008.xhtml#toc_marker-2-13"/>
+      </navPoint>
+      <navPoint id="navpoint27" playOrder="27">
+        <navLabel>
+          <text>S – 4</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_008.xhtml#toc_marker-2-14"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint28" playOrder="28">
+      <navLabel>
+        <text>Třetí stadium</text>
+      </navLabel>
+      <content src="Text/soukroma_vichrice_009.xhtml#toc_marker-3"/>
+      <navPoint id="navpoint29" playOrder="29">
+        <navLabel>
+          <text>A – 5</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_010.xhtml#toc_marker-3-1"/>
+      </navPoint>
+      <navPoint id="navpoint30" playOrder="30">
+        <navLabel>
+          <text>J – 5</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_010.xhtml#toc_marker-3-2"/>
+      </navPoint>
+      <navPoint id="navpoint31" playOrder="31">
+        <navLabel>
+          <text>B – 5</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_010.xhtml#toc_marker-3-3"/>
+      </navPoint>
+      <navPoint id="navpoint32" playOrder="32">
+        <navLabel>
+          <text>S – 5</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_010.xhtml#toc_marker-3-4"/>
+      </navPoint>
+      <navPoint id="navpoint33" playOrder="33">
+        <navLabel>
+          <text>A – 6</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_010.xhtml#toc_marker-3-5"/>
+      </navPoint>
+      <navPoint id="navpoint34" playOrder="34">
+        <navLabel>
+          <text>J – 6</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_010.xhtml#toc_marker-3-6"/>
+      </navPoint>
+      <navPoint id="navpoint35" playOrder="35">
+        <navLabel>
+          <text>S – 6</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_010.xhtml#toc_marker-3-7"/>
+      </navPoint>
+      <navPoint id="navpoint36" playOrder="36">
+        <navLabel>
+          <text>B - 6</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_010.xhtml#toc_marker-3-8"/>
+      </navPoint>
+      <navPoint id="navpoint37" playOrder="37">
+        <navLabel>
+          <text>A – 7</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_010.xhtml#toc_marker-3-9"/>
+      </navPoint>
+      <navPoint id="navpoint38" playOrder="38">
+        <navLabel>
+          <text>S – 7</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_010.xhtml#toc_marker-3-10"/>
+      </navPoint>
+      <navPoint id="navpoint39" playOrder="39">
+        <navLabel>
+          <text>J – 7</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_010.xhtml#toc_marker-3-11"/>
+      </navPoint>
+      <navPoint id="navpoint40" playOrder="40">
+        <navLabel>
+          <text>B – 7</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_010.xhtml#toc_marker-3-12"/>
+      </navPoint>
+      <navPoint id="navpoint41" playOrder="41">
+        <navLabel>
+          <text>J – 8</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_010.xhtml#toc_marker-3-13"/>
+      </navPoint>
+      <navPoint id="navpoint42" playOrder="42">
+        <navLabel>
+          <text>A – 8</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_010.xhtml#toc_marker-3-14"/>
+      </navPoint>
+      <navPoint id="navpoint43" playOrder="43">
+        <navLabel>
+          <text>B – 8</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_010.xhtml#toc_marker-3-15"/>
+      </navPoint>
+      <navPoint id="navpoint44" playOrder="44">
+        <navLabel>
+          <text>S – 8</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_010.xhtml#toc_marker-3-16"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint45" playOrder="45">
+      <navLabel>
+        <text>První stadium</text>
+      </navLabel>
+      <content src="Text/soukroma_vichrice_011.xhtml#toc_marker-4"/>
+      <navPoint id="navpoint46" playOrder="46">
+        <navLabel>
+          <text>(BJ) – 1</text>
+        </navLabel>
+        <content src="Text/soukroma_vichrice_012.xhtml#toc_marker-4-1"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

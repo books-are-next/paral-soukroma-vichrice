@@ -1,0 +1,5 @@
+---
+contentType: prose
+---
+
+První stadium
