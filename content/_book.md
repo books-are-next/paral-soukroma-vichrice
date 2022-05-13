@@ -1,36 +1,39 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
-chapters:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  title: Soukromá vichřice
+  identifier: urn:uuid:5f76c5f6-9881-4c4d-871b-64886c2d20c6
+  author: Vladimír Páral
+  publisher: Městská knihovna v Praze
+  modified: '2019-02-26T00:00:00.000Z'
+readingOrder:
+  - promo.html
+  - soukroma_vichrice_001.html
+  - soukroma_vichrice_002.html
+  - soukroma_vichrice_003.html
+  - soukroma_vichrice_004.html
+  - soukroma_vichrice_005.html
+  - soukroma_vichrice_006.html
+  - soukroma_vichrice_007.html
+  - soukroma_vichrice_008.html
+  - soukroma_vichrice_009.html
+  - soukroma_vichrice_010.html
+  - soukroma_vichrice_011.html
+  - soukroma_vichrice_012.html
+  - soukroma_vichrice_013.html
 tocBase:
-  - link: where-i-lived-and-what-i-lived-for.html
-    title: Where-i-lived-and-what-i-lived-for
-    numberedChildren: true;
-    children:
-      - link: reading.html
-        title: Reading
-      - link: sounds.html
-        title: Sounds
-  - link: solitude.html
-    title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - favicon.png
 ---
