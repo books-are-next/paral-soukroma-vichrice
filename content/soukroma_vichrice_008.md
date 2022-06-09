@@ -1,10 +1,9 @@
 ---
+title: ''
 contentType: prose
 ---
 
 J – 1
-
-  
 
 Už na rohožce Ádův polibek a ovšem jeho: „Co je k večeři?“, no přece ten sulc, kterýs tak dlouho a neodbytně požadoval, až z něj povstal obřad a Joža pobíhala kolem večeřícího Ády, kdybyste ho nechali, jedl by to z pekáče rukama a tak tumáš lžíci, strčit mu pod krk ubrousek, došla cibule a snad ještě trochu přisladit ocet, tři děcka by nemohla dát tolik práce, co tenhle mužský, achtymůjbože – těšila se Joža, jak Ádovi chutná, když spráskal půlku pekáče. V tichém pokoji tikaly hodiny po nebožtíku tatínkovi a ulicí chvílemi přejel vůz. V ušatém křesle pod stojací lampou podřimoval Áda v červeném županu čekaje na svou desátou hodinu a pak vstal, stoupl si za křeslo a: „Co to čteš?“, což znamenalo: Nech už toho! A pak: „Už je deset, číčo,“ neboli: Pojď si se mnou lehnout! A již jeho dlaň naléhavě dřela šíjové obratle.
 
@@ -155,8 +154,6 @@ ani do tři čtvrti na devět, rádio je dnes i ve věznicích, ani ve čtvrt n
 
 B – 2
 
-  
-
 Z vrátnice nádvořím do suterénu ke skřínce 3631 a do třetího patra dveře 142, jednoruký přinesl vzorky s atesty, 24141 až 24165 vyhovovaly, 14.00 a trapem domů, ze tří svetříků a tří sukní vyšpekulovat zas jinou kombinaci než posledně a předtím, nový lak na nehty stál osmnáct korun a je už skoro pryč, je to pitomost a dneska už vážně naposledy. Na zadní plošině Tomík z plánovacího a žába ze mzdovky, všichni vystupujeme na náměstí.
 
 Dnes nikoliv hlavní třídou… Za cirkusovým pláckem a nákladovým nádražím tou objevenou uličkou, říkejme jí _Bláznivá,_ do toho nového úžasného města. Podle řady šedivých domů se štíty jak z anglického filmu, tedy _Anglickou avenuí_ k zazděným obloukům viaduktu, zdálky dým a jekot parních píšťal: _lodních sirén_ a tak _hamburské doky,_ chápete už, před tím starým domem s jediným zamřížovaným oknem kamenný sloupek protknutý železným kruhem, _Katovská ulička_ – odnaproti si to mete ta žába ze mzdovky, rychle do prvních vrat, na dlážděném dvoře tlusťoch v zástěře a dřevěných pantoflích zalévá z konve záhonek na tom _Holandském dvoře,_ Katovskou uličkou a dolů klenutým kamenným podchodem, kde se kroky tak strašidelně rozléhají a tráva je ještě zelená a řeka, řeka je odtud prostě pohádka…
@@ -247,8 +244,6 @@ Shodila střevíce a už to fičelo:
 
 _„Stala se ještě krásnější!“ zvolal pak a prohlížel si ji ze všech stran. Jeho tvář zářila, vše na něm jen hrálo. „A zase je úplně změněna! Nikdo by nevěřil, že jednou byla Bakchantkou a jindy že představovala Sensibility. Vězí v ní něco nového, něco ženského a tvořivého…“_
 
-  
-
 a na tvrdé žluté lavici Bohunka snila v pachu levného tabáku a moči.
 
 Doma si s odporem uvázala špinavou zástěru, „Tak cos dělala celej tejden,“ řekla maminka běžíc na půdu pro cibuli, „Tak jste zas přijela…,“ řekl pan Kotulán a zaštítil se novinami nad svou neslanou polévkou, králík pečený bez soli chutná jak pozdě vylovený utopenec a Bohunka na svoji porci sůl přímo sněžila, což pan Kotulán sledoval vždy velmi nevraživě, maminka proto odvykala solit i sobě a ještě žvýkajíc běžela za panem Kotulánem dorazit ten sklep, co tam ti lidi proboha pořád dělají, na chodbě studeně mastné pablesky černobílých dlaždiček a u ohavného schodiště z umělého kamene dva hřbitovní oleandry pod girlandou už předloni obsypaných mucholapek, „Nechceš česnek?“ nabízela maminka ze sklepa už asi to poslední, co jí ještě zbylo a jako posledně a příště: „… příště si sednem a všechno mi povíš, ale musíme ještě… Jen umřít musíme, ubohá maminko.“ Mezi slepičinci nástupišťátka ztloustlé kamarádky se svými přiměřenými manžely v oblacích nudy nedělního odpoledne, v šeru vagónu kytara s chlapeckým chórem: „Na shlédanou, na shlédanou, na-shle-da-nou-rod-né-ú-do-lí. Na shlédanou, na shlédanou…“ Na schodišti svobodárny pečlivě zadupat, aby se našim nastávajícím z leknutí něco nestalo, na rozvrtané posteli se česala Inka v teplákách na holém těle, půjčit jí tak naše brnění a zpoza igelitové opony právě vychází Standa Kocián, jak načasováno, dnes pouze v trenkách a nedýchaje, aby zdůraznil nijaký hrudník na úkor nějakého už břicha, zřejmě revanš za tenkrát ten náš striptýz, velce dávat a brát, za chvilku začne modrat v obličeji, tak tohle byly vrcholy našich tajných rozkoší.
@@ -268,8 +263,6 @@ A jednoho obyčejného dne v půli týdne sešla Bohunka do suterénu, v oby�
 Báječný obyčejný den… v tichém smíchu zvedala Bohunka lokty nad hlavu a horký proud ji zpředu obléval, ležíc pak na lavici přejížděla si po těle roubíkem tuhé kolínské, pinzetou si tu a tam vytrhla chloupek, načernila obočí a řasy, vzrušující lahvička čtyřicetikorunového laku a dvakrát smyla odlakovačem nehet prsteníku, až se jí konečně i tam zdařil štíhlý měsíček. _Kleopatřino náčiní_ pak zamkla do plechové skřínky 3631 a zvolna, aby to vyšlo do 14.00, stoupala po schodech mávajíc vypůjčenou taškou, snad zbytečně velikou na ten silonový hřeben a úžasně krátkou žlutou košilku z téhož materiálu.
 
 S – 1
-
-  
 
 „Brýtro, šéfe!“ hodí se to starýmu Vinšovi, když si ve čtvrt na osm přijde pro raport, a pak hezky řízně: „Dobře. Dokončeny šarže 376, 377, 378…“ a „Už na to letím, šéfe!“, to plukovníkovi Vinšovi docela stačí, bodejť by taky ne, za minutu uslyší totéž od svého majora Nejtra, který mu to ještě navíc napíše – šéf má důvěru a je skoro jak druhej táta – a nadporučík Standa Kocián, ruce na zadku, zbytek směny už nerušeně velí svému oddílu Déčko.
 
@@ -356,8 +349,6 @@ A náhle se tak usmála, já to vždycky věděl, já ti rozumím, vždyť já 
 
 A – 2
 
-  
-
 Z vrátnice nádvořím do haly 2. cechu, „Dobře. Dokončeny šarže 450, 451, 452…“ „Dobře. Dokončeny šarže 450, 451, 452…,“ předčasný smích vedoucího 3. cechu při náměstkově anekdotě, souvislý peloton smíchů a poslední stařičkého hlavního technologa, „Dobře. Dokončeny šarže 450, 451, 452…,“ řekl Áda, když na něj přišla řada, odpředsedal a odseděl čtyři komise, v prázdné kanceláři paní Věrky se před zrcadlem dotkl uzlu sváteční kravaty, už dost té šaškárny a už jen na rozloučenou, tramvaj ovšem plná našich zaměstnanců a všechno to vystupuje na náměstí.
 
 Dnes žádné pivo v bufetu… Za cirkusovým pláckem a nákladovým nádražím tou dávno zapomenutou uličkou, kolikpak je to už let a jakpak se ta malá tenkrát jmenovala, čekávala pod třetím obloukem viaduktu, tenkrát ještě nebyly zazděné a jednou v zimě si vyprala punčochy a nestačila je už na rande usušit, nohy jak led, ale tváře horké, Štefanko – Štefanka se jmenovala a šeptala u toho kamenného sloupku s železným kruhem: „Tady by nás ve středověku spolu uvázali…“ „Ale to přeci bylo na lodní řetězy…,“ „… to by bylo nádherný… V tom kamenném podchodu jsem vždycky musel počkat na kraji a Štefanka sama ťukala kramflíčky po tom kamení, … jak v nějaký kryptě – hu! A teď ty!“, na břehu hned shodila střevíčky a házeli jsme spolu žabky na řeku…
@@ -440,17 +431,17 @@ Když ho přímo neodháníte, nepřestane vám život dávat nikdy… v tiché
 
 J – 2
 
-  
-
 Z vrátnice nádvořím a po schodech do druhého patra, podél řady dveří z mléčného skla k číslu 86, přes šaty bílý plášť a naproti kolegyni Vilmě, „Ahoj, Jožo.“ „Ahoj, Vilmo.“ „Ale to víš.“ „Co jinýho…?“ jednoruký naservíroval oběma atesty, Joža přesedla ke kartotéce, Vilma k psacímu stroji, vstávaly k telefonu a zas Vilma ke kartotéce a Joža k psacímu stroji, ve čtyři na náměstí a hlavní třídou se splasklými taškami, s naditými zpátky na náměstí, doma hned pustit rádio a jen zběžně utřít prach, večeře bude studená. Dnes žádné zadělávání, přepírání a luxování… Ze sklopných dvířek sekretáře mahagonový psací stolek, tuhý bledě modrý papír a notovým perem to vzrušivě stínované písmo:
 
-Milý tatínku,
+  
 
-tentokrát jen docela stručně, šéf totiž trvá na tom, abych dnes večer letěla do Bratislavy s ním. Abych si to třeba ještě nerozmyslela, poslal mi sem svůj vůz a šoférovi nakázal každou čtvrthodinu zatroubit. Přichází mi to dost nevhod, protože jsme s Irenou a Richardem měli večer zajít do Sašova ateliéru – ale vždyť já Ti ještě nenapsala o svých přátelích! Po rozvodu jsem musela zařizovat spoustu věcí, ale šlo to hladce. Byt jsem vyměnila za hezký malý pokojíček s výhledem na řeku.
+> _Milý tatínku,_
 
-Koupila jsem si jen pár kousků moderního nábytku (všechno to haraburdí jsem nechala Vinšovi), protože nekonečné uklízení a oprašování nenávidím! Jen jednu věc jsem si přinesla ze starého bytu – ty nástěnné hodiny, které jsi mi daroval tenkrát o Vánocích…
+> _tentokrát jen docela stručně, šéf totiž trvá na tom, abych dnes večer letěla do Bratislavy s ním. Abych si to třeba ještě nerozmyslela, poslal mi sem svůj vůz a šoférovi nakázal každou čtvrthodinu zatroubit. Přichází mi to dost nevhod, protože jsme s Irenou a Richardem měli večer zajít do Sašova ateliéru – ale vždyť já Ti ještě nenapsala o svých přátelích! Po rozvodu jsem musela zařizovat spoustu věcí, ale šlo to hladce. Byt jsem vyměnila za hezký malý pokojíček s výhledem na řeku._
 
-Tak moji noví přátelé… Předem – jsou skvělí! Richard je kunst­historik a píše básně, zrovna si vzpomínám na jednu:
+> _Koupila jsem si jen pár kousků moderního nábytku (všechno to haraburdí jsem nechala Vinšovi), protože nekonečné uklízení a oprašování nenávidím! Jen jednu věc jsem si přinesla ze starého bytu – ty nástěnné hodiny, které jsi mi daroval tenkrát o Vánocích…_
+
+> _Tak moji noví přátelé… Předem – jsou skvělí! Richard je kunst­historik a píše básně, zrovna si vzpomínám na jednu:_
 
 > _Protohippos byl předchůdcem koně,_
 
@@ -458,7 +449,9 @@ Tak moji noví přátelé… Předem – jsou skvělí! Richard je kunst­histo
 
 > _dál už nevím, ale je to hezké, viď? Kromě toho na mě bere. Irena je doktorka filozofie a má nejlepší přítelkyně, je prostě báječná, může se s ní mluvit o všem a je tolik věcí, které máme společně rády… Jsme stále spolu a chodíme i dvakrát týdně do divadla!_
 
-Chtěla bych Ti toho ještě tolik napsat, ale dole už zas troubí šofér. Buď hodně zdráv, tatínku. Hned po příletu Ti pošlu telegram.
+> _Chtěla bych Ti toho ještě tolik napsat, ale dole už zas troubí šofér. Buď hodně zdráv, tatínku. Hned po příletu Ti pošlu telegram._
+
+  
 
 Na chodbě kroky, zvonek, zaklapnout stolek a do kapsy tu bledě modrou zmačkanou kouli, první polibek a „Co je k večeři?“ a „Tak dobrou noc!“ a chr-chr, po schodech k číslu 86, „Ahoj, Jožo.“
 
@@ -513,8 +506,6 @@ V kanceláři se Joža jen převlékla a sešla do suterénu, v pondělí ve 
 A našup z toho byla láska nebeská… v tichém smíchu zvedala Joža lokty nad hlavu a horký proud ji zpředu oblékal, ležíc pak na lavici vykouřila Joskovu parfémovanou cigaretu a k slzám se rozesmála: z dvojnásobné zrady bude mít Iduška smrt.
 
 B – 3
-
-  
 
 Zrudlá Bohunka užasle otevírala oči bez jediného mžiknutí a Áda dosud s ní, _Myslela jsem, že mě rozdrtí,_ byla v tom už nekonečnost, ale trvalo to dál, _Nemohla jsem se pohnout,_ a Bohunka zas oči zavřela, _byla jsem jak v pasti, vložil do objetí všechnu svou sílu,_ velce dávat i brát, a znovu a dál až za samu smrt…
 
@@ -572,49 +563,33 @@ Když se do toho opravdu dáte, je to báječná hra, Áda kousal doutník, Bohu
 
 O3
 
-  
-
 (CH3)2C = CHCH2CH2COCH3 → (CH3)2CO +
-
-  
 
 \+ CH3COCH2CH2CHO
 
 (A) CH3
 
-  
-
 (CH3)2C = CHCH2CH2C.OZnCL → (CH3)2C =
 
 (B) CH2COOC2H5 (C)
 
-  
-
 CH3
-
-  
 
 \=CHCH2CH2C.OH
 
-  
-
 CH2COOH
-
-  
 
 (CH3)2C = CHCH2CH2C = CH.COOH →
 
 (D) CH3
 
-  
-
 → (CH3)2C = CHCH2CH2C = CH.CHO
-
-  
 
 (E) CH3
 
 (citral)
+
+  
 
 Říše organické chemie je Alenčina země divů a sloučenina E je citral („Dobrejtro, paní Ido!“ a rychle do Všebořic) a vzhůru barevným cinemaskopem, silnička tady vede až do oblak.
 
@@ -690,8 +665,6 @@ A Bohunka s kufrem jela tramvají na náměstí, autobus nahoru už čekal s 
 
 S – 2
 
-  
-
 „Brýtro, šéfe! Dobře. Dokončeny šarže 450, 451, 452 – Už na to letím, šéfe!“ a po politém betonu, plechovými schodišti a po dlaždičkách, na ženským zas rauchrsalón a tak jim tam zvenčí zhasnout, šestka už zas tluče a na chodbě vyšroubovaná žárovka, nafasovat na zítřek amid, rozepsat šichty a padla. Dnes ale žádný trámky ze střechy starýho skladu… Na motor a ke svobodárně, Inka i Mirek mají dneska školu, a tak už konečně s ní promluvit – nemůže zničehonic vpadnout do pokoje, kde bydlí, a rovnou jí to vyklopit, chce to příležitost a najít to pravý slovo, tak zatím zaparkovat v skrytu a s přehledem, tam v tom okně to bylo, kde ses mi ukázala a já tomu rozuměl, na rukách tě ponesu do prvního patra a jak děťátko si tě tam položím – teď už jen příležitost a najít to pravý slovo. Říct, že jsem celý ty dva roky pod tímhle oknem pokaždý si maloval, že Ty jdeš k oknu a Ty mi hážeš klíč. Říct, že jsem to každou neděli natahoval s Inkou proto, abych Tebe mohl uvidět. Říct, že i při tom s Inkou jsem si Tebe maloval. Říct – najednou vyběhla z domu a letí k tramvaji jak srnka v těch titěrnejch botičkách a Standa Kocián rychle nastartoval, ale nevyjížděl, na stanici eliny se to nedá říkat, chce to příležitost a tak opatrně za elinou a vrcholnýho bacha, na zadní plošině Tomík z plánovacího se žábou ze mzdovky, všecko by zkurvily ty jejich úřednický tlamy.
 
 Bohunka se pustila za cirkusový plácek a nákladové nádraží takovou zkroucenou uličkou k viaduktu, pištění lokomotiv a sazí jak v tunelu, hnusná čtvrť a hned Tě odtud odvezu, odnaproti ta štětka ze mzdovky, a tak zahnout a kolem bloku zas trapem zpátky, ale kdepaks mi to zůstala? Na plný pecky až k mostu a přes něj na Střekov, ale tak daleko zas pěšky dojít nemohla a na plný pecky zas zpátky, u tohodle kotevního sloupku se ztratila, ale kam tady proboha mohla jít, za obloukem viaduktu je přeci už jen voda.
@@ -729,8 +702,6 @@ A nejbližšího vhodného dne v půli týdne sešel Standa do mužské umyvá
 Aspoň jednou v životě udělat, co člověk opravdu chce… v tichém smíchu zvedal Standa lokty nad hlavu a horký proud ho zpředu oblékal, drhl se, až funěl, a pak se pečlivě hodil do vycházkového, pašovanou bílou košili a černé mokasíny od mámy na svatební den.
 
 A – 3
-
-  
 
 „Dej lokty nad hlavu…,“ jakživ v životě, co jsem na světě, něco takovýho, „… ještě výš…,“ to snad už není ani možný… a zas trochu dozadu… Achtymůjbože, vzdychl si Áda, to je za půlhodinu už tisíc a jedna noc.
 
@@ -791,8 +762,6 @@ Ida upřela na Ádu zuřivý pohled, lízla a odhodila. „Za týden už převl
 „A nerozdávám,“ trucovala Ida, „mě z toho zas tak rozbolela hlava…,“ a natáhla se na gauč, Áda se smál, hodil červený župan do koupelny a rychle zmizel, z pajzlu se odchází bez loučení a vy tři ještě přilezete a budete mi zas chtít žrát z ruky, nasedl do vozu a uháněl ke Všebořicím, kdopak by se štěstí bál, nad dráty na betonových sloupcích zlaté stráně až do nebe – tož nahoru!
 
 J – 3
-
-  
 
 „Já – co jsem měla dělat! Áda je hrozně fajn, povídám jí, považ, že mi přivezl dva páry silonek a zajíce!“
 
@@ -878,8 +847,6 @@ A když pak Joska odklidil sedolorem nakrmenou Idu domů, Joža svlékla modrý
 
 S – 3
 
-  
-
 Už jsem si zvykl čekat pod Tvýma oknama a odjet teď už není kam – motor zamaskován u potoka a v křoví na stráni ležel Standa Ko­cián, v skrytu a s přehledem přes silnici, zahrádku a Vinšův domek, přímo v ose toho okna, které si pootevřeli hned, jak přijeli, a v tom pootevřeném okně se češe Bohunka. A v tom okně stojí nahá, jen v tý průhledný košilce a za ní v šeru, ale pořád děsně viditelná, ta hlava starýho Vinše a ještě jeho nahý ramena – já čekal příležitost pod Tvýma oknama, on si Tě vozil auťákem, já hledal to pravý slovo a on si Tě koupil jak pivo, já Tebe jak ještě nikdy nikoho, ani vlastní mámu, jak vlastní život – všecko mi to zkurvil. A já na to „Brýtro, šéfe!“
 
 Učesala se a nedočkavě se vrátila k němu, skryt a přehled už zbytečný a Standa vykročil po ose toho okna, dřív než plot ho zastavily vzlyky z toho šera a její lokty jak na mučidle už k ZEŠÍLENÍ –
@@ -918,13 +885,9 @@ Městem stažených rolet a zalezlých krys nahoru do pohoří, pololeže na ř
 
 A – 4
 
-  
-
 „Dej lokty nad hlavu… ještě výš… a zas trochu dozadu… vydrž tak…,“ a teď si zas chvilku hrát na pejsky, „Dej lokty nad hlavu…,“ a zas na silnici, do Hubertusu na buřty, do Krupky na guláš a zpátky, nahoře zas sjet ze silnice na louky a šup do tepla, „…ještě výš…,“ když prší, tak se betonovat nedá a kdo by v tom vichřisku spravoval plot, „… a zas trochu dozadu… nad knížkou jak študenti, ale tolik vzorečků jsem neuměl ani den před maturitou, vydrž tak… ten tvůj guláš z buřtů je hotovej koncert a jen ho udělej zas, já si zatím skočím na pivo a hned jsem zpátky, pivo bylo moc hořký a přitom tu správnou hořkost zas nemělo, Áda je odstrčil nedopité, už jsem tomu holt odvykl a to je výborný, a za neustávající vichřice z vrcholků mazal po mokré silničce zpátky, „Dej lokty nad hlavu… ráno na poslední chvíli šupem dolů do Všebořic a hned z práce rychle nahoru… ještě výš…,“ česala se u okna v tý svý košilce a nad její hlavou nebe šedivé jak olověná trubka, a zas trochu dozadu… když ho přímo neodháníte, nepřestane vám život dávat nikdy. „Dej lokty nad hlavu ještě výš a zas trochu dozadu.“ „Dej lokty nad hlavu ještě výš a zas trochu dozadu.“ „Dej lokty výš a dozadu a vydrž tak…“
 
 J – 4
-
-  
 
 „Já – co bych měla dělat! Ať si nechá auto a chatu, já zase zařízení a vkladní knížky!“
 
@@ -936,8 +899,6 @@ J – 4
 
 B – 4
 
-  
-
 Velce dávat i brát, propadat se a vznášet, hřmít a plát. Velce dávat i brát – už čtvrtá nekonečnost jen v tomhletom jednom objetí a Áda dosud s ní, skutečný muž a přitom docela jak chlapec, a už zas do auta, do Hubertusu na buřty, do Krupky na guláš a zpátky, nahoře zas sjet ze silnice na louky a šup do tepla, velce dávat i brát, kdo by v tom vichřisku lezl ven a tak další příklad, už
 
 _420\. Jak byste dospěl z N-methylpiperidinu k 1,2-dimethylpyrolidinu?_
@@ -945,8 +906,6 @@ _420\. Jak byste dospěl z N-methylpiperidinu k 1,2-dimethylpyrolidinu?_
 Za těch pár dní jsme dělali už pětačtyřicet příkladů, jak dřív za celý rok, a vytáhnout mu doutník z pusy, dám Ti něco lepšího, propadat se a vznášet, vyšel pak ven a krájela cibuli a buřty na guláš, v krbu plál opravdový oheň a je tak nádherné chystat u ohně jídlo a čekat muže, přišel tak brzo, že se tam sotva otočil, nemohl se dočkat, hřmít a plát, ráno na poslední chvíli šupem dolů do Všebořic a hned z vrátnice do Všebořic, vichřice rozezněla dráty na betonových sloupcích a sháněla oblaka z hor dolů, velce dávat i brát, ve své žluté košilce se Bohunka česala u okna a rozvlněné stromy na svahu, po němž sestoupilo těžké nebe už k našemu plotu, báječný, obyčejný den včera, dneska, zítra a vždycky, velce dávat i brát, propadat se a vznášet, hřmít a plát a do nekonečna nekonečnost za nekonečností.
 
 S – 4
-
-  
 
 Trhnout řetízkem na uzávěru zipsu, prsty na poutko paličky a až metr za ním vytrhnout z kapsy, do výše ramena a ostře trhnout, a udělá, co udělá: ještě dvakrát. Chytit ho za ruku ještě dřív než spadne, přes rameno tu ruku a jakoby ho vést k patníku na okraji silnice, v případě potřeby: „Motal se tady jak vožralej, a tak jsem ho chtěl odvíst.“ U patníku do něj maličko strčit a nechat ho skutálet k potoku. „Chtěl jsem si ho líp chytnout, ale vysmek se mi a skoulel se dolů.“ Skoulet se za ním s kolenama u břicha, aby nebyly stopy podrážek. „Jak jsem se za ním nahejbal, ujely mi na tom mokrým listí nohy.“ U potoka je to už dobrý, v skrytu a s přehledem, pořád v rukavicích ho trochu vzkřísit vodou a lít do něj Starou mysliveckou, dokud ji bude brát, „Křísil jsem ho napřed vodou, a když jsem mu našel v kapse kořalku, tak tou.“ Pořád v rukavicích mu vtisknout tu flašku, aby na ni udělal otisky, vrazit mu ji do kapsy, zvednout ho na kolenou a hlavou o ten kulatej šutr. Možno zopakovat. „Když se začal hejbat, pomáhal jsem mu na nohy, ale vyklouz mi a hlavou rovnou na ten šutr.“ Kontrola: palička je v zazipsovaný kapse a zlikvidovat případný stopy podrážek. Do potoka a vodou až pod mostek, cestou se očistit a superkontrola, na motor a v tý starý stodole „Přišlo na mě, s odpuštěním, sraní“, sundat z motorky to Machulkovo číslo a dát zas svý, tu modrou machulkovskou helmu pod bundu a na hlavu hezky zas svou červenou a v druhých rukavicích kliďánko pro alibi do Chlumce za slečnou Eržikou. „Viděl jsem Machulku ten den ráno ve fabrice a připadal mi nějakej divnej. To s Bohunkou ho těžce vzalo.“ Čtyři věci se likvidují: rukavice, palička, Machulkovo číslo a modrá helma. Aspoň jednou v životě udělat, co člověk opravdu chce –
 
