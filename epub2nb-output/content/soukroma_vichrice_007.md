@@ -1,5 +1,6 @@
 ---
+title: Druhé stadium
 contentType: prose
 ---
 
-Druhé stadium
+

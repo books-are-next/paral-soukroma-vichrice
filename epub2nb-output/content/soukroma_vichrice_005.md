@@ -1,5 +1,6 @@
 ---
+title: První stadium
 contentType: prose
 ---
 
-První stadium
+

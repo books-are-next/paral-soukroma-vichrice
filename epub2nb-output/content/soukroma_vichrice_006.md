@@ -1,10 +1,9 @@
 ---
+title: ''
 contentType: prose
 ---
 
 B – 1
-
-  
 
 V sobotu po poledni je všude zavřeno, Bohunka Austová vyskočila z tramvaje, běžela přes náměstí a bez dechu vpadla do toho krámu, hned za ní zamkli a nepřetržitě zvoníce svazkem klíčů hodili před ni tu vysněnou věcičku, zkusmo přidržena u ramene končila dva prsty pod Venušiným pahrbkem, Bohunka naprázdno polkla, klepli klíči o pult a Bohunka už horlivě platila a vystrkána ven šťastně vydechla před již zamykanými dveřmi.
 
@@ -17,8 +16,6 @@ Na okenním skle zadrnčel kamínek, vždyť už letím, ale to už musí dole c
 „Mirane…“ Stoupla si bosýma nohama na jeho mokasíny a již jeho ruce kolem pasu, aspoň něco jsem si měla pod to vzít, přinucena zvrátit obličej popatřila na pavučinu ve svém rohu, zavřela oči a zatoužila navléknout si novou košilku, ale prkna podlahy již přestala vrzat pod čtverem nohou a dvojí dech zrychloval rytmus drátěného nářku.
 
 A – 1
-
-  
 
 V sobotu po poledni je všude otevřeno, Áda Vinš stanul na náměstí váhaje mezi ústeckou desítkou ve Světě nebo Zdaru a plzeňským v Domě kultury, Savoji nebo hotelu Palace, chuť dosud rozkomíhána a bez pevného tvaru, zkusmo zašel do bufetu Svět a vstoje zvolna pojídaje patnáct deka vlašského salátu pozoroval pěnu kolem nošených piv, velké tenkostěnné bubliny suše praskaly do ostrých kráterků, tak tohle si chlastejte sami, Áda pohlédl na hodinky, Joža právě začíná luxovat, a znovu stanul na náměstí.
 
@@ -39,8 +36,6 @@ Půl sedmé, Joža je už se vším hotová, oba kamarádi zaplatili, Áda vyčk
 Byla přeci sobota.
 
 B – 1
-
-  
 
 Zrudlá Bohunka otevírala oči a prudce zamžikala, Mirek již stál s lokty nad hlavou a spouštěl si košili po dojemné šňůrce vystouplých obratlů, vždyť to byla sotva minuta, odvrátila se ke zdi a zvolna kladla suše pálící dlaň na drsnou omítku, pak ruku maličko oddálila a pozorovala vytvořený stín, zvedla palec kolmo vzhůru a dole pohybovala malíčkem, takhle nám chudák tatínek předváděl koníka.
 
@@ -88,8 +83,6 @@ Rozpačitě se na sebe usmáli a rudnoucí Mirek zapnul rádio, začalo chrčet
 
 A – 1
 
-  
-
 V tichém pokoji s balkónem tikaly zlacené hodiny a ulicí chvílemi přejel vůz. V ušatém křesle pod stojací lampou Joža v modrém prošívaném županu četla _Světovou literaturu,_ ve stejném křesle naproti v červeném prošívaném županu podřimoval Áda nad jiným číslem téhož žurnálu.
 
 V deset hodin vstal, maličko se protáhl, opřel se o Jožino opěradlo a lehce jí cvrnkal do ucha. „Co to čteš?“ a sleduje Jožin do drsna vylouhovaný prst četl zároveň s ní tučně tištěné _Úvahy a meditace Franze Kafky:_
@@ -119,8 +112,6 @@ __Dřív jsem nechápal, proč jsem na svou otázku nedostal odpověď, dnes nec
 Joža by si ještě četla, ale Ádova dlaň jí velitelsky sevřela šíji a dřela obratle, Joža mlčky vstala a vyšla z pokoje, Áda shodil župan a v ložnici vlezl pod přikrývku, za ozářenou skleněnou výplní dveří slyšel Jožino přecházení, otvírání jedněch oken a zavírání jiných, zamykání a spouštění vody, snažil se nezavřít oči, konečně tma, zavrzání vedlejšího lůžka a závan broskvového krému, nadechl se a našel její ruku. „Číčo…,“ zašeptal, převrátil se k ní a pravidelně a mocně jí oddechoval do tváře, „Achtymůjbože…,“ vzdychla posléze Joža, Áda se krátce zasmál, převrátil se zpátky a okamžitě usnul.
 
 B – 1
-
-  
 
 Nedělní ráno bez budíku, zpocená Inka bez sukně popolézala mydlinkami po červeně otlačených kolenou a odfukovala si vlasy z čela, po sobotě Bohunčina milování patřila neděle Inčině. Bohunka ležíc v posteli a kouříc na lačno cigaretu urychleně dočítala _Lukrecii Borgiu._
 
@@ -193,8 +184,6 @@ __Napoleonovi nestačilo míti ji v noci v objetí. Chtěl ji míti stále bl�
 Okna rozechvíval dusot strojů z protější přádelny a zas týden v čudu.
 
 A – 1
-
-  
 
 Nedělní ráno bez budíku, za zdí milé vrčení luxu a Jožino popěvování, vyspaný a vyválený Áda poseděl čtvrthodinku na kraji postele zívaje a škrábaje se na zádech a mezi prsty na nohou, ještě si na chvilku lehl a pak už doopravdy vstával, šel se k oknu podívat na venkovní teploměr, pak políbit Jožu na tvář a vymočit se, deset minut poctivě cvičil s pérovým síličem svalů až funěl, osprchoval se, navlékl si čisté prádlo přichystané Jožou na židli a zvolna pak snídal linecké řezy s bílou kávou, mezitím Joža vytáhla z ledničky kuře, oba doň píchali prsty a pak si je převážili, Joža navrhla, že by je zkusila udělat jednou po čínsku.
 
@@ -272,8 +261,6 @@ Usmáli se na sebe, „Tak jíst a spát!“ křikl Áda, „Já ti už měla h
 
 B – 1
 
-  
-
 Z vrátnice nádvořím a po schodech do suterénu, pod nahými žárovkami strkání a křik před řadami uzounkých plechových skřínek, Bohunka se prodrala ke svému číslu 3631 a v ústroji laborantky – kalhotky, podprsenka a bílý plášť – zas nahoru, nádvořím a do třetího patra, chodbou ve tvaru L a v řadě dveří z mléčného skla číslo 142. Zapnula rádio po drátě a hořák svého fotokolorimetru, sedla si a chvilku zdřímla.
 
 Při cvaknutí kliky za zády se napřímila a s úsměvem obrátila: „Dobrejtro, paní Ido!“
@@ -336,13 +323,13 @@ __375\. Látka A, poskytující ozonolysou aceton a aldehyd levulový, reaguje 
 
 „… resultuje sloučenina E. Jakou má konstituci?“ šeptala si Bohunka a škrabala se na kotníku a dala knížku zpátky do červeného kufru, vzala si sousední s modrozlatou vazbou, došla s ní k oknu a vyklonila se, v ozářených oknech protější přádelny pobíhala děvčata v dusotu strojů, z úzkého okénka se vykláněl muž v rádiovce a kouřil cigaretu krytou v dlani, pichlavé hvězdy na temně modrém nebi, Bohunka k nim vzhlížela vzhůru, velce dávat i brát, propadat se a vznášet, hřmít a plát – až pocítila od nohou chlad, převlékla se do bavlněného pyžámka a v posteli otevřela knížku na založeném místě:
 
+  
+
 __A_ _tu myslila Maria Walewská: Ne, prostého vojáka, jenž, by měl jen kord, nemohla by milovati. Tento Bonaparte budil by v ní jen sympatie, nikoliv však lásky_…  
 _A_ _byla přece daleko vypočítavosti, vzdávajíc se duší i tělem Napoleonovi_…  
 _Co tedy okouzlilo její srdce, co je jímalo takovým neodolatelným kouzlem?__
 
 A – 1
-
-  
 
 Z vrátnice nádvořím do haly 2. cechu, Áda zvolna kráčel šerem mezi dvěma řadami tříposchoďových aparatur za řevu stovek elmotorů a svistu centrifug pečlivě dbaje, aby se nevyhýbal kalužím na politém betonu, pátral, až našel své: rozbitou okenní tabulku nad třetí podestou.
 
@@ -440,8 +427,6 @@ __Kdo věří, nemůže prožívat zázraky. Ve dne není vidět hvězdy.__
 „Ve dne není vidět hvězdy?“ šeptala Joža a škrábala se na kotníku, Áda kratičce pohlédl na proužek její vymydlené šíje, potřepal rukou vycpávané ucho křesla a škrábaje se na lopatce došel k francouzskému oknu na balkón, „Tak jakpak bude zejtra…,“ zazíval a vyhlédl, pichlavé hvězdy na temně modrém nebi, zafuněl, šel si vyčistit zuby, vyčurat, „Tak dobrou noc, pusi!“ a hupky do postele a chr-chr.
 
 B – 1
-
-  
 
 Z vrátnice nádvořím do suterénu ke svému číslu 3631 a v třetím patře do dveří 142, „Dobrejtro, paní Ido!“
 
@@ -627,8 +612,6 @@ V sobotu pak krátce po třetí hodině zrudlá Bohunka otevírala oči a prud
 Z náměstí hlavní třídou na náměstí, hlavní třídou z náměstí, v uzounké uličce před žernoseckou vinárničkou náhle shluk lidí, Bohunka opustila svou hlavní třídu a propracovávala se davem, ale nevidět leč záda kabátů a nad nimi lesklou střechu sanitky a již s houkáním odjížděla, shluk se rozplýval, jen Bohunka zůstala stát v té uzounké uličce, snad ještě něco bude –
 
 A – 1
-
-  
 
 Z vrátnice nádvořím do haly 2. cechu, teplem deformovaná PVC-trubka, „Dobře,“ řekl Standa Kocián, „dokončeny šarže 385, 386, 387…“
 
@@ -837,8 +820,6 @@ Oblečen dosud v pracovním hodil sebou mstivě do křesla a ta stránka se u�
 
 __„__Tys mě omámila,“ vzdychal na zastávce autobusů. „Byl to okamžik šílenství. Báječný okamžik,“ dodával. „Báječný. Šílenství. Ale když si uvědomím__“__
 
-  
-
 a Áda spustil otevřený žurnál na kolena, zlatá Joža, Jožinka, a otevřená stránka se zachvěla, Joža znamená klid, lehce a znovu lehce a silněji a silně pohnul stehny, až zaševelení a žurnál sjel na koberec, Áda vstal a šlápl na něj a dupl a zadupal – trvalo to sotva minutu – a sehnul se a sebral žurnál ze země, tím víc se teď bude otvírat na téhle stránce. Šel do koupelny a chladnýma zčervenalýma rukama se pak převlékl do svého červeného županu, „Udělala jsem ti rychlou špekovou omeletu…,“ řekla Joža, bouchla dvířka ledničky, napřed lok z omžené láhve, rychlou omeletu a ještě tři mocná kolena k ní spořádal.
 
 V sobotu pak krátce po desáté čekal na Jožu v ložnici za ozářenou skleněnou výplní dveří, poslouchal její přecházení, otvírání jedněch oken a zavírání jiných, zamykání a spouštění vody, konečně tma, zíral na zvenčí ozářený strop připraven jí to udělat, jakmile ulehne vedle, ovšemže Joža znamená klid, ale před čím vším –
@@ -858,8 +839,6 @@ V pondělí ovšem 414, 415, 416.
 Z bufetu na náměstí hlavní třídou směrem k mostu a Lípě, v uzounké uličce před žernoseckou vinárničkou náhle shluk lidí, Áda opustil svou hlavní třídu a přidal se k davu, nevidět leč záda kabátů a nad nimi lesklou střechu sanitky a již s houkáním odjížděla, shluk se rozplýval, jen Áda zůstal stát v té uzounké uličce, jako by ještě něco mohlo být –
 
 AB – 1
-
-  
 
 V té uzounké uličce stála Bohunka _jako by zrovna na něco čekala_ a Áda se k ní přiblížil.
 

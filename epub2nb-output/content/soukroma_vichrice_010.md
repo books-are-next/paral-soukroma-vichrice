@@ -1,10 +1,9 @@
 ---
+title: ''
 contentType: prose
 ---
 
 A – 5
-
-  
 
 „Dej lokty nahoru…,“ nějak to od toho okna táhne a skočíme si na pivo s malým, vítr už ustal, ale zas ve dne v noci chlejstá, u silnice tabule V zimě se silnice neudržuje, no to mám radost, výčepní v Hubertusu asi jakživ neslyšel, že pivní trubky se taky propařují a chleba má tady asi ještě z třicetiletý války… vejš… a zas s ní do toho Hubertusu, kde platějí kuchaře jen za ohřívání buřtů a zas jeden prasklej, v Krupce mají bezmasej den asi čtyřikrát týdně, a tak ji aspoň trochu pohrncat na tom drnovišti, když jí to stačí k radosti… dozádu…,“ „ale dej už pokoj se vzorečkama, kdyby byla takhle křížovečka nebo aspoň halma, „Lokty nahoru… s tím oknem by se mělo něco udělat a už nám zas kuchtí ten buřtovej guláš, ale to víš, že mi to chutná, ale zajedem si ještě do Hubertusu na buřty, žejo, za celej život jsem jich tolik nesněd, a tak to zkusíme ještě v Krupce: bramborovej guláš z buřtů nebo buřty jen tak, pivo jak chcanky a zas na ty louky, ještě že jsem si už tady vyjezdil cestičku, ale ještě tejden a můžu to zavízt rovnou do generálky, „Dej to nahoru,“ že se ta nestyda může pořád česat v tom průvanu nahatá, maminka sypala na zimu mezi okenice piliny, a to pak bylo teplo, teploučko, tep-louč- „Já že spal? To se ti jen zdálo!“ jak četník, utahala by celej prapor, a pořád nemá dost, „Kruci, neber mi pořád ten doutník! Stojí korunu deset a stopnutej už nemá tu chuť!“ do Hubertusu, do Krupky, na louku, hvězdičky už dávno spějí a jakpak asi bude zejtra? – Ale jakpak, prosím vás, může zejtra bejt. Do Hubertusu a do Krupky a na louku, buřtovej guláš doma a v Hubertusu buřty jen tak.
 
@@ -30,8 +29,6 @@ A Bohunka si šla pro mokrý Ádův hubertus, uklohnila v něm svůj majstršt
 
 J – 5
 
-  
-
 Tolik věcí společně rádi a tolikrát jsme je už všechny probrali, Kazan teď už začal kreslit v sinéovském slohu, však Manka už pouští gramofon, doktor jde pro Soňu, Manka se chytla s Kazanem, Darek tančí se židlí a Joska ovšem s námi, neškodilo by koupit už nějaké nové desky, tož ještě jednu chartreusku a cestou k večeři ovšem do Kazanova ateliéru, na šňůrách samé modré obtisky, ale ten motiv je nějak povědomý a k tomu grapefruitový čaj, v divadle poslední dvě dějství hry Roberta Thomase _Past,_ případný název, a v žernosecké čínská kuřata už bez objednávání, samozřejmě ještě všichni k nám na kafe a Darek si chodí do spíže na jahody už sám, konečně jsem je přivezla, aby se snědly, no však to už hnedle bude, zvednout se tady před půlnocí je faux pas a ještě s Joskou si pak ťukat na stěnu, dnes je zas domácí den o topinkách a čaji, tady se o tajli teda nikdo bát nemusí, Manka se zas nechá ohmatávat za záclonou, asi z hladu, a Darek pak za ní a Kazanem běží, ač je přebytečný, spěchají tak zřejmě někam na pořádnou večeři, ještě že mám pod postelí ten uzený bůček, a Soňa si zas stěžuje na doktora Fouska, tohles říkala už posledně, drahoušku, ale no tak se vypovídej, když ti to dělá tak dobře, pořád lepší než poslouchat doktorovy nechutnosti o ženské obřízce v Guineji nebo jak Joskovi uniká to hlavní z Robbe-Grilleta, doktor aspoň zmizí v jedenáct, ale Joska musí své nepochopení Robbe-Grilleta ještě zdůraznit tím, že ho předčítá jako se na nádraží vyvolávají vlaky, i z Gabriely Mistralové by šlo tímhle stylem udělat masovou píseň, ale no tak si ještě počti a poklepej na zeď tím klíčem, když kotníků je ti na to už líto.
 
 Venku už vítr slábne, ale zas leje ve dne v noci, na chatě je asi jako v tropech, jenže sotva pět stupňů nad nulou, no pozdrav vás tam nahoře pámbu, přileze a bude kňučet jak zmoklý psisko, ale nikdo mu už nebude vařit čajíček ani nosit kompoty do postele, ta kurva tam totiž nejela, aby si hrála na ošetřovatelku a ze zanedbaného nachlazení může být našup zápal plic a pak rozhoduje už jen, jak daleko je k doktorovi, zajde tam jak pes – ale vypadal jak řepa tuhle v jídelně.
@@ -47,8 +44,6 @@ Stačí se tady objevit, a Manka už jde pro skleničky, Soňa se na alkohol vy
 Když konečně odtáhnou, bude ještě Joska otravovat tím stupidním ťukáním, stejně se chce jenom pomstít Ádovi za Idu a za svůj zaraženej služební postup, ale to si vyřiď ve fabrice, jenže tam se ho bojíš, a tak já musím trčet v tomhle hampejzu, kde se dcera klidně nechá muchlat před matkou, která má z toho ještě psinu, ta naše nejlepší přítelkyně Soňa pořád zpívala, že by už nemohla žít jinde než u řeky, ale najednou se ohromně zajímá o výměnu našeho kvartýru, jak je prohnaná, ale to akorát ti dám tři plus jedna s ústředním, plynem a teplou vodou za tuhle studenou ratejnu a Joska zas mlátí do zdi, dneska asi už pohrabáčem, aby přitom mohl ležet, Joža vztekle kousala ve tmě do bůčku, takhle si ťukají vězni v celách a to vězeňské okénko lijákem jenjen drnčí, posadila se v té žalostné posteli, už před válkou rozmašírované vojenskými láskami služek a rozhodně: „Ticho!“
 
 B – 5
-
-  
 
 Velce dávat i brát a propadat se atakdál, už zas běží na to svoje „jedno“ pivo, které má nejmíň dva litry, kdyby radši udělal něco s tím oknem, vítr s ním sice už tak necloumá, ale to jen proto, že ustal, zato nám zas pod římsou vyrazil hezký vodopádek, tož do Hubertusu, kde jsme byli naposledy včera a nejpozději zas zítra a po večeři se hodně vydrkat na těch drnech velikých jak hlávky zelí, no když mu tak málo stačí k radosti, doma hned zas atakdál a atakdál, co takhle jednou zas něco jiného:
 
@@ -69,8 +64,6 @@ Tož nahoru na ten náš rozmoklej kopeček a ovšem oklikou mimo město, aby h
 Co je nám tamten ve skle, který by mohl být naším tátou, zítra nás ještě zaveze do Hubertusu, i pozítří, ale je taky za měsíc a za rok, už jen to dávání a propadání zbylo, ošklivě málo, když je vám teprve dvacet, vždyť by mohl být _naším tátou,_ „Lokty…“ NAŠÍM TÁTOU – „Číčo…“ Víc než ošklivý, je to k pláči a „Pusť!“
 
 S – 5
-
-  
 
 Trhnout řetízkem na uzávěru zipsu, sice dobře přidrátovanej, ale ten drátek se už začíná trhat z bundy s celým zipem, prsty na poutko paličky a až metr za ním, dneska vyrazil na pivo už v 16,10, do výše ramene a ať udělá, co udělá: ještě dvakrát, k tomu patníku potřebuje už 37 minut, leze jak šváb a tak jsme pro dnešek hotovi, dolů do Chlumce za Eržikou, ty jsi, žencká, za celej den vyválená, ale já mám v těle dneska už dvě šichty a po té třetí s tebou je deset hodin spaní už málo, kromě toho život svobodnýho chlapa potřebuje jiný kalorie než pořád ty tvoje topinky s čajem a padnout na postel, ve dne v noci jak z cedníku a tak dneska domů pro celtu, trhnout řetízkem, prsty na poutko, chytit ruku a jakoby ho vést k patníku, „Motal se tady jak vožralej, a tak jsem ho chtěl odvíst.“
 
@@ -93,8 +86,6 @@ A Standa jel na motoru domů, máma už připravila makový buchty a termosku 
 Zároveň šust, mokré plácnutí a měkký plošný úder – tvrdě probuzený Standa bez dechu vyskočil, ale to jen cíp celty sjel pod vahou vody a patnáct litrů přímo na hlavu, chce to zarazit kolíky a lankem k větvi – to už raději zrovna zemljanku, srub nebo montovanou chatu s terasou, ty kriple, jezdíš sem kvůli zdravýmu vzduchu nebo oddělání toho chlapa, na to druhý bylo už dvacet příležitostí a tys dobře věděl, že všecky stojejí za vyliž, kap-kap-kap-kap… Machulkovi stačí jít do kina nebo na pivo a ze všech podezřelejch jezdíš na motoru už jen ty a zrovna sem poslední dobou, od patníku k šutru v potoce by Vinše musel někdo katapultovat, existujou taky rekonstrukce, laboratoře a cvičený psi, Erži je na VB stará zákaznice a radši desetkrát vymění fabriku, než by seděla za křivý svědectví a napomáhání, Inka s radostí vycinká motiv, místo Vinše přijde sígr, kerej začne provozákům tvrdě šlapat na paty a nutit je do všelijakejch posranejch škol, Bohuna se do roka vdá a ty vyfásneš špagát za úkladnou chladně uváženou – „Hovno!“
 
 A – 6
-
-  
 
 V tmavém výčepu Hubertusu Áda jedl vlažný prasklý buřt, přikusoval chleba jak vojenský kramflek a ještě zakyslý, k tomu vlažné kalné pivo bez pěny, docela ztracenej den a přitroublý výčepní z nudy pleskal pořád dál, dál: „… a ten chlap sem jezdí na motocyklu každej den jak hodiny, na stráni si postavil kryt, buď diverzant, nebo chce zahnout za kopečky, viděl ho pan revírní, pan Houška, soudruh tajemník, pan kaplan, ta ochechule z Prahy, co má tu žlutou chatu a ten škrabák z Ústí, co sem chodí sbírat samorosty a pokaždý si umazává z tácku a paní Rousová z Jednoty a učni, co sbírají smrkový semeno, a ženský ze školky a péesáci ho už hlídají z věže dalekohledama…,“ plesk, plesk a plesk, z neutěsněného kohoutku kapalo do umývacího dřezu kap a kap a kap, za oknem stromy už nahaté bez jedinýho lístku, leda duby, ale ty se nepočítají a jehličnatý přeci nemaj listí, holka si vlezla do postele přímo z auta, ještě aby tak začala marodit, když pomyslíte, že byste mohli mít stejně starou dceru, _To je otřesné. Byl to okamžik šílenství. Báječný. Šílenství._
 
@@ -142,8 +133,6 @@ _tak to se teda může změnit žádná odpověď plus zasvinit bahno žádná o
 
 S – 6
 
-  
-
 Vinš nalinkovanej jak zákon káže, ale nám to pořád ještě myslí, po mokré silnici od patníku spirálou k patníku, tendle ještě ne, tendle ještě ne, tendle ještě ne, na motor by se teda už vlízt nedalo, však nás kámoš pozval přespat, tendle ještě ne, tendle ještě ne – a to je von, ten nahnutej.
 
 „… a Bohunka na to prej kdepák, to jsou samí srabaři, jedinej opravdovskej chlap ve fabrice je u mě Standa. Kocián…,“ namáhal se kámoš Áda, až chraptěl.
@@ -168,8 +157,6 @@ Aby dokázal, že ani trochu ne, obrátil Standa do sebe celou tu půllitrovku a
 
 B - 6
 
-  
-
 Na zdi pod oknem vykvetla mapa pohádkového světa, z kterého nám zbyla jen tahle venkovská cimra s vlhkými stěnami a krbem fungujícím jako mašina na saze, za tím oknem odleva doprava nedohledná plantáž nahého a už namočeného proutí jak na milión metel, dostávat pravidelně na zadek nemůže být horší, než být pravidelně nechávána sama a přijde dost líto bez svatby skočit hned do manželství po deseti letech – Bohunka vzdychla a otevřela si knížku na tom založeném místě:
 
 _420\. Jak byste dospěl z N-methylpiperidinu k 1,2-dimethylpyrolidinu?_
@@ -192,31 +179,21 @@ A ráno mezi donaha orvanými buky po silničce dolů, na tandemu za Standou a�
 
 A – 7
 
-  
-
 Můj zlatej červenej župan!
 
 S – 7
-
-  
 
 Mý zlatý montérky pro doma!
 
 J – 7
 
-  
-
 Můj zlatej modrej župan!
 
 B – 7
 
-  
-
 Moje zlatý bavlněný pyžámko!
 
 J – 8
-
-  
 
 „Tak jsme se tý soboty přece dožily…,“ radovala se Vilma, ani se nepřevlékala a šla si nakoupit, však my půjdem taky, jen co se vrátí, je to taková privilej zasloužilých dlouholetých zaměstnanců ve vyšších službách, kterou nám ta negramotná laborantská pakáž o patro výš strašně závidí, proto nutno chodit jedna po druhé, však referentka s referentkou se vždycky domluví a Joža si zajela pro smetanu.
 
@@ -250,8 +227,6 @@ Což znamená: „Mám tě pořád rád!“ Tak ještě honem honem zavřít okn
 
 A – 8
 
-  
-
 Z vrátnice nádvořím do haly 2. cechu, zvolna mezi dvěma řadami tříposchoďových aparatur, důležité je nevyhýbat se kalužím, za dveřmi s modrobílou tabulkou Vedoucí úseku: „Dobře. Dokončeny šarže 582, 583, 584…,“ za dveřmi s modrobílou tabulkou Vedoucí provozu: „Dobře. Dokončeny šarže 582, 583, 584…,“ funguje nám to bezvadně a jen blázen by si do toho začal sám vrtat.
 
 Áda vyšel na vlečku a obešel celé svoje území, zadíval se na známou linii hor s Nakléřovským průsmykem, pod nímž tenkrát dostal Napoleon na frak, teď už pod sněhem, v zimě se tam silnice neudržují, k tomu nebezpečí lavin a nadechl se, pod teplou vložkou kožeňáku ještě z revoluce lahodící dotek svěžího těla s chladivou a jemnou dederonovou košilí, vrcholnou možností ve svém žánru a v zemích RVHP, měls vědět, kdy přestat, Napoleonku, a mohls císařovat dál, ve čtyřiceti je čas sklízet, a vydal se do správní budovy a cestou odpověděl snad na čtyřicet pozdravení.
@@ -281,8 +256,6 @@ Nedělní nuda je na nervy jak rašelinová lázeň a po dvou spaních před t�
 Áda rozlil zbytek prvního litru a dojatě si ťukli, vždyť z nás čtyř každý každému má být za co vděčen, jen spolu všichni čtyři jsme mohli na to takhle vyzrát a už to vesele fičelo dál.
 
 B – 8
-
-  
 
 „Tak zas máme na krku sobotu,“ smála se paní Ida. „Aby do ní hrom uhodil!“ smála se Bohunka, paní Ida se ani nepřevlékla a běžela si nakoupit, však taky budem chodit, za tři roky jde baba Vršecká do důchodu a na řadě jsme teď už my, povýšení z laborantky na kontrolorku je děsně príma, protože děláte pořád dál to samý, jen se na konci šichty dvakrát podepíšete a za to máte o šestasedmdesát korun víc… Ale to ještě není všecko: když budete sekat latinu, máte za takových pět let naději udělat referentku… A to je jen trošku psaní, jinak samý telefonování, práce jak na velvyslanectví a přitom v druhém patře, kde je teplo i v zimě a k tomu zas ještě o sto patnáct korun víc…
 
@@ -316,8 +289,6 @@ Z protější přádelny dusot strojů, který nikdy neustane, takže jej už a
 
 S – 8
 
-  
-
 „Brýtro, Ádo! Dobře. Dokončeny šarže 582, 583, 584 – Peřinová je ve čtvrtým. Tamto byla Pecoldová. Už na to letím, Ádo!“ Po politém betonu, plechovými schodišti a po dlaždičkách, ruce na zadku, oči na šťopkách, ale už žádný štvaní, pěkně kliďánko lup a už zas máme osmadvacet kilo k dobru, v pondělí z toho bude černá šarže za tu havarovanou 583, splněnou zatím jen tužkou. Erži je rozumná holka a pokaždý jen ve výtahu a jen na půlku retka, ale těch pět minut vám ušetří tři hodiny lítání a tři dny ptaní, od zavedení blokových pokut jsou všechny žencký najednou nekuřáci a kroniky jim teď píšou mistříci, aspoň to není pořád stejným písmem – každej vůl ví, že by se na to mělo jít úplně jinak, ale při konci roku není na žádný sraní čas.
 
 Standa ještě jednou zvolna prošel svůj oddíl a pokuřoval si pak v kanceláři (teď bych někde čekal na vejslech), bezvadně nám to funguje, po třicítce vás už omrzí honit se pořád jak pingl, a co je v hlavě, nemusí přece bejt už v nohách.
@@ -348,4 +319,4 @@ Odklonila tvář do polštáře a zavřela oči, jak ztuhlá, s Vinšem jsem t
 
   
 
-[^1]: Konečně sám. Pozn. red.
+_[^1] Konečně sám. Pozn. red._

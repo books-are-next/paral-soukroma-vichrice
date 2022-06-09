@@ -1,5 +1,6 @@
 ---
+title: Třetí stadium
 contentType: prose
 ---
 
-Třetí stadium
+
