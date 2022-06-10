@@ -1,9 +1,9 @@
 ---
-title: ''
+title: "B\_–\_1"
 contentType: prose
 ---
 
-B – 1
+<section>
 
 V sobotu po poledni je všude zavřeno, Bohunka Austová vyskočila z tramvaje, běžela přes náměstí a bez dechu vpadla do toho krámu, hned za ní zamkli a nepřetržitě zvoníce svazkem klíčů hodili před ni tu vysněnou věcičku, zkusmo přidržena u ramene končila dva prsty pod Venušiným pahrbkem, Bohunka naprázdno polkla, klepli klíči o pult a Bohunka už horlivě platila a vystrkána ven šťastně vydechla před již zamykanými dveřmi.
 
@@ -323,7 +323,9 @@ __375\. Látka A, poskytující ozonolysou aceton a aldehyd levulový, reaguje 
 
 „… resultuje sloučenina E. Jakou má konstituci?“ šeptala si Bohunka a škrabala se na kotníku a dala knížku zpátky do červeného kufru, vzala si sousední s modrozlatou vazbou, došla s ní k oknu a vyklonila se, v ozářených oknech protější přádelny pobíhala děvčata v dusotu strojů, z úzkého okénka se vykláněl muž v rádiovce a kouřil cigaretu krytou v dlani, pichlavé hvězdy na temně modrém nebi, Bohunka k nim vzhlížela vzhůru, velce dávat i brát, propadat se a vznášet, hřmít a plát – až pocítila od nohou chlad, převlékla se do bavlněného pyžámka a v posteli otevřela knížku na založeném místě:
 
-  
+</section>
+
+<section>
 
 __A_ _tu myslila Maria Walewská: Ne, prostého vojáka, jenž, by měl jen kord, nemohla by milovati. Tento Bonaparte budil by v ní jen sympatie, nikoliv však lásky_…  
 _A_ _byla přece daleko vypočítavosti, vzdávajíc se duší i tělem Napoleonovi_…  
@@ -847,3 +849,5 @@ _„Jestli nemáte zrovna nic rozumnýho na práci_…“
 Bylo _hned poznat, že už předem je pro,_ jak tam tak postávala. _„Rozumnýho až po krk_…“
 
 Z té žernosecké vinárničky pak do tmy a takovou zvláštní uličkou co nejdál od hlavní třídy a náměstí.
+
+</section>

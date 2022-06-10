@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Soukromá vichřice; Mladý muž & bílá velryba](https://search.mlp.cz/cz/titul/soukroma-vichrice-mlady-muz-bila-velryba/22365/) tak, jak bylo vydáno nakladatelstvím Československý spisovatel v Praze v roce 1985. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 **§**
@@ -15,6 +17,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 25. 2. 2019.
 
-  
+</section>
+
+<section>
 
 ![image002.jpg](./resources/image002_fmt.png)
+
+</section>

@@ -1,9 +1,9 @@
 ---
-title: ''
+title: "J\_–\_1"
 contentType: prose
 ---
 
-J – 1
+<section>
 
 Už na rohožce Ádův polibek a ovšem jeho: „Co je k večeři?“, no přece ten sulc, kterýs tak dlouho a neodbytně požadoval, až z něj povstal obřad a Joža pobíhala kolem večeřícího Ády, kdybyste ho nechali, jedl by to z pekáče rukama a tak tumáš lžíci, strčit mu pod krk ubrousek, došla cibule a snad ještě trochu přisladit ocet, tři děcka by nemohla dát tolik práce, co tenhle mužský, achtymůjbože – těšila se Joža, jak Ádovi chutná, když spráskal půlku pekáče. V tichém pokoji tikaly hodiny po nebožtíku tatínkovi a ulicí chvílemi přejel vůz. V ušatém křesle pod stojací lampou podřimoval Áda v červeném županu čekaje na svou desátou hodinu a pak vstal, stoupl si za křeslo a: „Co to čteš?“, což znamenalo: Nech už toho! A pak: „Už je deset, číčo,“ neboli: Pojď si se mnou lehnout! A již jeho dlaň naléhavě dřela šíjové obratle.
 
@@ -433,7 +433,9 @@ J – 2
 
 Z vrátnice nádvořím a po schodech do druhého patra, podél řady dveří z mléčného skla k číslu 86, přes šaty bílý plášť a naproti kolegyni Vilmě, „Ahoj, Jožo.“ „Ahoj, Vilmo.“ „Ale to víš.“ „Co jinýho…?“ jednoruký naservíroval oběma atesty, Joža přesedla ke kartotéce, Vilma k psacímu stroji, vstávaly k telefonu a zas Vilma ke kartotéce a Joža k psacímu stroji, ve čtyři na náměstí a hlavní třídou se splasklými taškami, s naditými zpátky na náměstí, doma hned pustit rádio a jen zběžně utřít prach, večeře bude studená. Dnes žádné zadělávání, přepírání a luxování… Ze sklopných dvířek sekretáře mahagonový psací stolek, tuhý bledě modrý papír a notovým perem to vzrušivě stínované písmo:
 
-  
+</section>
+
+<section>
 
 > _Milý tatínku,_
 
@@ -451,7 +453,9 @@ Z vrátnice nádvořím a po schodech do druhého patra, podél řady dveří 
 
 > _Chtěla bych Ti toho ještě tolik napsat, ale dole už zas troubí šofér. Buď hodně zdráv, tatínku. Hned po příletu Ti pošlu telegram._
 
-  
+</section>
+
+<section>
 
 Na chodbě kroky, zvonek, zaklapnout stolek a do kapsy tu bledě modrou zmačkanou kouli, první polibek a „Co je k večeři?“ a „Tak dobrou noc!“ a chr-chr, po schodech k číslu 86, „Ahoj, Jožo.“
 
@@ -559,7 +563,9 @@ _375\. Látka A, poskytující ozonolysou aceton a aldehyd levulový, reaguje s
 
 Když se do toho opravdu dáte, je to báječná hra, Áda kousal doutník, Bohunka se smála a pavoučci sloučenin se rafinovaně pářili:
 
-  
+</section>
+
+<section>
 
 O3
 
@@ -589,7 +595,9 @@ CH2COOH
 
 (citral)
 
-  
+</section>
+
+<section>
 
 Říše organické chemie je Alenčina země divů a sloučenina E je citral („Dobrejtro, paní Ido!“ a rychle do Všebořic) a vzhůru barevným cinemaskopem, silnička tady vede až do oblak.
 
@@ -910,3 +918,5 @@ S – 4
 Trhnout řetízkem na uzávěru zipsu, prsty na poutko paličky a až metr za ním vytrhnout z kapsy, do výše ramena a ostře trhnout, a udělá, co udělá: ještě dvakrát. Chytit ho za ruku ještě dřív než spadne, přes rameno tu ruku a jakoby ho vést k patníku na okraji silnice, v případě potřeby: „Motal se tady jak vožralej, a tak jsem ho chtěl odvíst.“ U patníku do něj maličko strčit a nechat ho skutálet k potoku. „Chtěl jsem si ho líp chytnout, ale vysmek se mi a skoulel se dolů.“ Skoulet se za ním s kolenama u břicha, aby nebyly stopy podrážek. „Jak jsem se za ním nahejbal, ujely mi na tom mokrým listí nohy.“ U potoka je to už dobrý, v skrytu a s přehledem, pořád v rukavicích ho trochu vzkřísit vodou a lít do něj Starou mysliveckou, dokud ji bude brát, „Křísil jsem ho napřed vodou, a když jsem mu našel v kapse kořalku, tak tou.“ Pořád v rukavicích mu vtisknout tu flašku, aby na ni udělal otisky, vrazit mu ji do kapsy, zvednout ho na kolenou a hlavou o ten kulatej šutr. Možno zopakovat. „Když se začal hejbat, pomáhal jsem mu na nohy, ale vyklouz mi a hlavou rovnou na ten šutr.“ Kontrola: palička je v zazipsovaný kapse a zlikvidovat případný stopy podrážek. Do potoka a vodou až pod mostek, cestou se očistit a superkontrola, na motor a v tý starý stodole „Přišlo na mě, s odpuštěním, sraní“, sundat z motorky to Machulkovo číslo a dát zas svý, tu modrou machulkovskou helmu pod bundu a na hlavu hezky zas svou červenou a v druhých rukavicích kliďánko pro alibi do Chlumce za slečnou Eržikou. „Viděl jsem Machulku ten den ráno ve fabrice a připadal mi nějakej divnej. To s Bohunkou ho těžce vzalo.“ Čtyři věci se likvidují: rukavice, palička, Machulkovo číslo a modrá helma. Aspoň jednou v životě udělat, co člověk opravdu chce –
 
 Chodí teď do Hubertusu pokaždý dřív, 18,47, 18,33, 18,25, 18,16 a dnes už 18,02. K tomu patníku má časy 28, 29, 31, 32 a dnes už 33 minuty, vlíkne se pořád pomalejc, šupem dolů do Chlumce a Erži už jen v teplákách, první číslo je teprv záloha, trhnout řetízkem, prsty na poutko paličky a až metr za ním, a teďka tu rafanskou dobírku, zlatej je život svobodnýho mládence a kdypak já v životě spal devět hodin v jednom kuse, naposledy asi ještě v kočárku, hned ze šichty nahoru na pozorovatelnu, trhnout řetízkem, chytit ho za ruku, dneska vylezl už 17,49, u patníku maličko strčit, dneska se tam škobrtal už 35 minut, nutný zvýšit časovou rezervu a zaplať pámbu za tuhle vichřici, v té ho ani sám neuslyším, i kdyby řval jak tur. Trhnout řetízkem, chytit ho za ruku, u patníku strčit a hned se skoulet za ním, proč hned? Napřed se rozhlídnout. „Byl jsem už bezradnej.“ Tak znova: trhnout řetízkem, chytit ho za ruku, u patníku maličko strčit…
+
+</section>
