@@ -1,9 +1,9 @@
 ---
-title: ''
+title: "A\_–\_5"
 contentType: prose
 ---
 
-A – 5
+<section>
 
 „Dej lokty nahoru…,“ nějak to od toho okna táhne a skočíme si na pivo s malým, vítr už ustal, ale zas ve dne v noci chlejstá, u silnice tabule V zimě se silnice neudržuje, no to mám radost, výčepní v Hubertusu asi jakživ neslyšel, že pivní trubky se taky propařují a chleba má tady asi ještě z třicetiletý války… vejš… a zas s ní do toho Hubertusu, kde platějí kuchaře jen za ohřívání buřtů a zas jeden prasklej, v Krupce mají bezmasej den asi čtyřikrát týdně, a tak ji aspoň trochu pohrncat na tom drnovišti, když jí to stačí k radosti… dozádu…,“ „ale dej už pokoj se vzorečkama, kdyby byla takhle křížovečka nebo aspoň halma, „Lokty nahoru… s tím oknem by se mělo něco udělat a už nám zas kuchtí ten buřtovej guláš, ale to víš, že mi to chutná, ale zajedem si ještě do Hubertusu na buřty, žejo, za celej život jsem jich tolik nesněd, a tak to zkusíme ještě v Krupce: bramborovej guláš z buřtů nebo buřty jen tak, pivo jak chcanky a zas na ty louky, ještě že jsem si už tady vyjezdil cestičku, ale ještě tejden a můžu to zavízt rovnou do generálky, „Dej to nahoru,“ že se ta nestyda může pořád česat v tom průvanu nahatá, maminka sypala na zimu mezi okenice piliny, a to pak bylo teplo, teploučko, tep-louč- „Já že spal? To se ti jen zdálo!“ jak četník, utahala by celej prapor, a pořád nemá dost, „Kruci, neber mi pořád ten doutník! Stojí korunu deset a stopnutej už nemá tu chuť!“ do Hubertusu, do Krupky, na louku, hvězdičky už dávno spějí a jakpak asi bude zejtra? – Ale jakpak, prosím vás, může zejtra bejt. Do Hubertusu a do Krupky a na louku, buřtovej guláš doma a v Hubertusu buřty jen tak.
 
@@ -119,7 +119,9 @@ J – 6
 
 _stalo se to jinak ano úplně ano ale jak žádná odpověď jak se to stalo žádná odpověď co se stalo žádná odpověď CO SE STALO řev dobrá_
 
-  
+</section>
+
+<section>
 
 četla Joža úryvky z Beckettova _Jak to je_ v tom Savoji, kde vysedávala až do desíti večer, kdy zavírali, mělo to tady ohromnou přednost: ticho a nikdo známý, nic se nepřejí tak brzo jako věci, které máte společně rádi, život je totiž složitější a škoda, že tady opisují jídelní lístek ze dne na den pořád stejně, k tomu ty nepohodlné židličky a to smíšené světlo tak nezdravé pro oči, ten chlap od protějšího stolu už mrká docela drze, od předvčerejška tady vysedává už celé hodiny, co chcete, je to veřejná místnost – Joža vzdychla, docela ztracený den, pečlivě znovu přečetla ten beznadějně známý jídelní lístek od _sajry s cibulí_ až po _sýr ementálský s máslem 20 g,_ který tady ostatně nikdy neměli, objednala 100 _g hovězí s rajskou omáčkou a knedlíkem,_ objednávat musíte pořád, aby vás tady nechali sedět a kam jít, venku už sice přestalo pršet a dokonce se vyjasnilo, ten surový jas končícího roku, ověřující, že opravdu nezbylo už nic… A kam taky můžete sama –
 
@@ -317,6 +319,10 @@ _Na rukách Tě ponesu do prvního patra_ a mezi dvěma oleandry v zeleně nat
 
 Odklonila tvář do polštáře a zavřela oči, jak ztuhlá, s Vinšem jsem tě tenkrát viděl jinak rozdělanou, ale kuš s tím už proboha a hladil ji, studené tváře a krk a ramena a tělo… Jak elektrolytická měď, ale nějak už nesvítila, ale co to s tebou udělal, ale co se to s náma stalo…
 
-  
+</section>
+
+<section>
 
 _[^1] Konečně sám. Pozn. red._
+
+</section>
