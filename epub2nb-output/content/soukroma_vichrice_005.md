@@ -8,6 +8,8 @@ contentType: prose
 
 <section>
 
+B – 1
+
 V sobotu po poledni je všude zavřeno, Bohunka Austová vyskočila z tramvaje, běžela přes náměstí a bez dechu vpadla do toho krámu, hned za ní zamkli a nepřetržitě zvoníce svazkem klíčů hodili před ni tu vysněnou věcičku, zkusmo přidržena u ramene končila dva prsty pod Venušiným pahrbkem, Bohunka naprázdno polkla, klepli klíči o pult a Bohunka už horlivě platila a vystrkána ven šťastně vydechla před již zamykanými dveřmi.
 
 Rozběhla se za červeným sputnikem, netrpělivě poskakovala kolem beznadějného návalu u Vstupu a pak se vrhla do právě zavíraných dveří Výstupu, sevřena jejich kovovými rámy drala se nahoru a nešlo to, za zběsilého řidičova zvonění rvala přivírající se křídla kopajíc do jejich gumových těsnění a vrážejíc lokty a koleny do podrážděné masy před sebou, až to posléze šlo a opřela se vítězně zády o poražené dveře.

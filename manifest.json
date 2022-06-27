@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "paral-soukroma-vichrice-ccea430",
-  "revision": "ccea430",
+  "identifier": "paral-soukroma-vichrice-65ea842",
+  "revision": "65ea842",
   "readingOrder": [
     "promo.html",
     "soukroma_vichrice_005.html",
@@ -19,8 +19,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 25 2022 14:49:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1656168597847
+    "date": "Mon Jun 27 2022 11:04:40 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1656327880737
   },
   "documents": [
     {
@@ -38,9 +38,9 @@
     {
       "title": "První stadium",
       "file": "soukroma_vichrice_005.html",
-      "words": 11227,
-      "chars": 66744,
-      "ideas": 431,
+      "words": 11230,
+      "chars": 66749,
+      "ideas": 432,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -58,9 +58,9 @@
     {
       "title": "Druhé stadium",
       "file": "soukroma_vichrice_007.html",
-      "words": 21151,
-      "chars": 119754,
-      "ideas": 461,
+      "words": 21154,
+      "chars": 119759,
+      "ideas": 462,
       "role": "chapter",
       "order": 2,
       "prev": "soukroma_vichrice_005.html",
@@ -78,9 +78,9 @@
     {
       "title": "Třetí stadium",
       "file": "soukroma_vichrice_009.html",
-      "words": 7290,
-      "chars": 40846,
-      "ideas": 157,
+      "words": 7293,
+      "chars": 40851,
+      "ideas": 158,
       "role": "chapter",
       "order": 3,
       "prev": "soukroma_vichrice_007.html",
@@ -98,9 +98,9 @@
     {
       "title": "První stadium",
       "file": "soukroma_vichrice_011.html",
-      "words": 170,
-      "chars": 997,
-      "ideas": 5,
+      "words": 173,
+      "chars": 1005,
+      "ideas": 6,
       "role": "chapter",
       "order": 4,
       "prev": "soukroma_vichrice_009.html",
@@ -138,14 +138,14 @@
   ],
   "totals": {
     "all": {
-      "words": 39990,
-      "chars": 229348,
-      "ideas": 1075
+      "words": 40002,
+      "chars": 229371,
+      "ideas": 1079
     },
     "chapters": {
-      "words": 39838,
-      "chars": 228341,
-      "ideas": 1054
+      "words": 39850,
+      "chars": 228364,
+      "ideas": 1058
     }
   }
 }

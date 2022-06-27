@@ -12,7 +12,7 @@
       "contentType": "prose"
     },
     "elements": {
-      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.uroven1.PARAL",
       "subtitle": "",
       "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
       "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
@@ -25,18 +25,19 @@
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
       "figure": "MLP.obrazky.*\nmlpobrazky",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*",
       "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
       "remove": "",
-      "ignore": "",
-      "centered": ".*uprostred.*",
-      "verse": "MLP.verse.*"
+      "ignore": ""
     },
     "structure": [
       {
         "isSection": true,
         "id": "section-1",
         "listType": "plain",
+        "devoured": false,
         "children": [
           {
             "filename": "soukroma_vichrice_001.md",
@@ -96,8 +97,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "První stadium"
+            "title": "První stadium",
+            "children": []
           },
           {
             "filename": "soukroma_vichrice_006.md",
@@ -109,8 +110,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "B – 1"
+            "title": "B – 1",
+            "children": []
           },
           {
             "filename": "soukroma_vichrice_007.md",
@@ -122,8 +123,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Druhé stadium"
+            "title": "Druhé stadium",
+            "children": []
           },
           {
             "filename": "soukroma_vichrice_008.md",
@@ -135,8 +136,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "J – 1"
+            "title": "J – 1",
+            "children": []
           },
           {
             "filename": "soukroma_vichrice_009.md",
@@ -148,8 +149,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Třetí stadium"
+            "title": "Třetí stadium",
+            "children": []
           },
           {
             "filename": "soukroma_vichrice_010.md",
@@ -161,8 +162,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "A – 5"
+            "title": "A – 5",
+            "children": []
           },
           {
             "filename": "soukroma_vichrice_011.md",
@@ -174,8 +175,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "První stadium"
+            "title": "První stadium",
+            "children": []
           },
           {
             "filename": "soukroma_vichrice_012.md",
@@ -187,8 +188,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "(BJ) – 1"
+            "title": "(BJ) – 1",
+            "children": []
           },
           {
             "filename": "soukroma_vichrice_013.md",
@@ -202,8 +203,7 @@
             "hiddenTitle": false,
             "children": []
           }
-        ],
-        "devoured": false
+        ]
       }
     ]
   },
@@ -247,7 +247,7 @@
         "xhtml": "soukroma_vichrice_005.xhtml"
       },
       {
-        "titleSuggest": "B – 1",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "soukroma_vichrice_006.md",
         "xhtml": "soukroma_vichrice_006.xhtml"
@@ -259,7 +259,7 @@
         "xhtml": "soukroma_vichrice_007.xhtml"
       },
       {
-        "titleSuggest": "J – 1",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "soukroma_vichrice_008.md",
         "xhtml": "soukroma_vichrice_008.xhtml"
@@ -271,7 +271,7 @@
         "xhtml": "soukroma_vichrice_009.xhtml"
       },
       {
-        "titleSuggest": "A – 5",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "soukroma_vichrice_010.md",
         "xhtml": "soukroma_vichrice_010.xhtml"
@@ -283,7 +283,7 @@
         "xhtml": "soukroma_vichrice_011.xhtml"
       },
       {
-        "titleSuggest": "(BJ) – 1",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "soukroma_vichrice_012.md",
         "xhtml": "soukroma_vichrice_012.xhtml"
@@ -370,6 +370,6 @@
       "user": "books-are-next",
       "repo": "paral-soukroma-vichrice"
     },
-    "generatedAt": 1656168518343
+    "generatedAt": 1656327791883
   }
 }
