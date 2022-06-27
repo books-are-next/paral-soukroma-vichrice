@@ -110,7 +110,7 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "title": "B – 1",
+            "title": "",
             "children": []
           },
           {
@@ -136,7 +136,7 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "title": "J – 1",
+            "title": "",
             "children": []
           },
           {
@@ -162,7 +162,7 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "title": "A – 5",
+            "title": "",
             "children": []
           },
           {
@@ -188,7 +188,7 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "title": "(BJ) – 1",
+            "title": "",
             "children": []
           },
           {
@@ -248,7 +248,7 @@
         "xhtml": "soukroma_vichrice_005.xhtml"
       },
       {
-        "titleSuggest": "B – 1",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "soukroma_vichrice_006.md",
         "xhtml": "soukroma_vichrice_006.xhtml"
@@ -260,7 +260,7 @@
         "xhtml": "soukroma_vichrice_007.xhtml"
       },
       {
-        "titleSuggest": "J – 1",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "soukroma_vichrice_008.md",
         "xhtml": "soukroma_vichrice_008.xhtml"
@@ -272,7 +272,7 @@
         "xhtml": "soukroma_vichrice_009.xhtml"
       },
       {
-        "titleSuggest": "A – 5",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "soukroma_vichrice_010.md",
         "xhtml": "soukroma_vichrice_010.xhtml"
@@ -284,7 +284,7 @@
         "xhtml": "soukroma_vichrice_011.xhtml"
       },
       {
-        "titleSuggest": "(BJ) – 1",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "soukroma_vichrice_012.md",
         "xhtml": "soukroma_vichrice_012.xhtml"
@@ -371,6 +371,6 @@
       "user": "books-are-next",
       "repo": "paral-soukroma-vichrice"
     },
-    "generatedAt": 1656168518343
+    "generatedAt": 1656327791883
   }
 }
