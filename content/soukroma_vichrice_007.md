@@ -8,6 +8,8 @@ contentType: prose
 
 <section>
 
+J – 1
+
 Už na rohožce Ádův polibek a ovšem jeho: „Co je k večeři?“, no přece ten sulc, kterýs tak dlouho a neodbytně požadoval, až z něj povstal obřad a Joža pobíhala kolem večeřícího Ády, kdybyste ho nechali, jedl by to z pekáče rukama a tak tumáš lžíci, strčit mu pod krk ubrousek, došla cibule a snad ještě trochu přisladit ocet, tři děcka by nemohla dát tolik práce, co tenhle mužský, achtymůjbože – těšila se Joža, jak Ádovi chutná, když spráskal půlku pekáče. V tichém pokoji tikaly hodiny po nebožtíku tatínkovi a ulicí chvílemi přejel vůz. V ušatém křesle pod stojací lampou podřimoval Áda v červeném županu čekaje na svou desátou hodinu a pak vstal, stoupl si za křeslo a: „Co to čteš?“, což znamenalo: Nech už toho! A pak: „Už je deset, číčo,“ neboli: Pojď si se mnou lehnout! A již jeho dlaň naléhavě dřela šíjové obratle.
 
 A tak ještě zavřít okno v kuchyni a otevřít větračku v pokoji, zamknout a sobotní hygiena ústní vody, pesaru a broskvového krému, sotva Joža ulehla, byla tu již jeho ruka a jeho „Číčo…,“ láska po deseti letech manželství, „Achtymůjbože…,“ vzdychla pak Joža, vděčnost za pozornost a za námahu dík. Nedělní ráno bez budíku znamená ovšem vstát dřív, trochu uklidit a přichystat Ádovi na židli čerstvé prádlo, ve skříni jemně voněla kdoulová jablka a mýdlo Coriolan. Kuře musí být ovšem zas na paprice, aspoň jednou tak to po čínsku…
