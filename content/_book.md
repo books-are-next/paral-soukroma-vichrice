@@ -26,26 +26,14 @@ tocBase:
       - link: soukroma_vichrice_005.html
         title: První stadium
         hiddenTitle: false
-      - link: soukroma_vichrice_006.html
-        title: "B\_–\_1"
-        hiddenTitle: false
       - link: soukroma_vichrice_007.html
         title: Druhé stadium
-        hiddenTitle: false
-      - link: soukroma_vichrice_008.html
-        title: "J\_–\_1"
         hiddenTitle: false
       - link: soukroma_vichrice_009.html
         title: Třetí stadium
         hiddenTitle: false
-      - link: soukroma_vichrice_010.html
-        title: "A\_–\_5"
-        hiddenTitle: false
       - link: soukroma_vichrice_011.html
         title: První stadium
-        hiddenTitle: false
-      - link: soukroma_vichrice_012.html
-        title: "(BJ) –\_1"
         hiddenTitle: false
     isSection: true
     listType: plain
