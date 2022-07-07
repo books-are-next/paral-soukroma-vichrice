@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "paral-soukroma-vichrice-9f66145",
-  "revision": "9f66145",
+  "identifier": "paral-soukroma-vichrice-7cb678d",
+  "revision": "7cb678d",
   "readingOrder": [
     "promo.html",
     "soukroma_vichrice_005.html",
@@ -19,8 +19,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 08:35:20 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657182920872
+    "date": "Thu Jul 07 2022 09:52:24 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657187544920
   },
   "documents": [
     {
