@@ -67,7 +67,7 @@
             "filename": "soukroma_vichrice_003.md",
             "xhtml": "soukroma_vichrice_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -79,7 +79,7 @@
             "filename": "soukroma_vichrice_004.md",
             "xhtml": "soukroma_vichrice_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -195,7 +195,7 @@
             "filename": "soukroma_vichrice_013.md",
             "xhtml": "soukroma_vichrice_013.xhtml",
             "id": 12,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -370,6 +370,6 @@
       "user": "books-are-next",
       "repo": "paral-soukroma-vichrice"
     },
-    "generatedAt": 1656329527199
+    "generatedAt": 1657182274199
   }
 }

@@ -8,19 +8,19 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "paral-soukroma-vichrice-736fb40",
-  "revision": "736fb40",
+  "identifier": "paral-soukroma-vichrice-9f66145",
+  "revision": "9f66145",
   "readingOrder": [
     "promo.html",
     "soukroma_vichrice_005.html",
     "soukroma_vichrice_007.html",
     "soukroma_vichrice_009.html",
     "soukroma_vichrice_011.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 27 2022 11:34:05 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1656329645607
+    "date": "Thu Jul 07 2022 08:35:20 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182920872
   },
   "documents": [
     {
@@ -104,7 +104,7 @@
       "role": "chapter",
       "order": 4,
       "prev": "soukroma_vichrice_009.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -117,11 +117,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 146,
-      "chars": 965,
+      "chars": 964,
       "ideas": 17,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "soukroma_vichrice_011.html",
       "next": null,
@@ -139,7 +139,7 @@
   "totals": {
     "all": {
       "words": 40002,
-      "chars": 229371,
+      "chars": 229370,
       "ideas": 1079
     },
     "chapters": {

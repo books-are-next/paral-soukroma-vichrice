@@ -19,7 +19,7 @@ readingOrder:
   - soukroma_vichrice_007.html
   - soukroma_vichrice_009.html
   - soukroma_vichrice_011.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
