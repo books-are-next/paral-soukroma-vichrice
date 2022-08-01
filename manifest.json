@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "paral-soukroma-vichrice-1609dca",
-  "revision": "1609dca",
+  "identifier": "paral-soukroma-vichrice-6c2cb83",
+  "revision": "6c2cb83",
   "readingOrder": [
     "promo.html",
     "soukroma_vichrice_005.html",
@@ -19,8 +19,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:46:14 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414774679
+    "date": "Mon Aug 01 2022 13:51:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1659361894050
   },
   "documents": [
     {
@@ -118,9 +118,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 146,
-      "chars": 965,
-      "ideas": 17,
+      "words": 150,
+      "chars": 1001,
+      "ideas": 18,
       "role": "about",
       "order": null,
       "prev": "soukroma_vichrice_011.html",
@@ -138,9 +138,9 @@
   ],
   "totals": {
     "all": {
-      "words": 40002,
-      "chars": 229371,
-      "ideas": 1079
+      "words": 40006,
+      "chars": 229407,
+      "ideas": 1080
     },
     "chapters": {
       "words": 39850,
