@@ -13,6 +13,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   contentType: prose
+  isbn: 978-80-274-0559-6
 readingOrder:
   - promo.html
   - soukroma_vichrice_005.html
