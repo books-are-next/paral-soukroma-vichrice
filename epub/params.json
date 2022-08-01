@@ -9,7 +9,8 @@
       "modified": "2019-02-26T00:00:00.000Z",
       "edition": "beletrie",
       "publisherShort": "mkp",
-      "contentType": "prose"
+      "contentType": "prose",
+      "isbn": "978-80-274-0559-6"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.uroven1.PARAL",
@@ -371,6 +372,6 @@
       "user": "books-are-next",
       "repo": "paral-soukroma-vichrice"
     },
-    "generatedAt": 1656327791883
+    "generatedAt": 1658413552163
   }
 }
