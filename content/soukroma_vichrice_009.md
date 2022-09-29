@@ -327,7 +327,5 @@ Odklonila tvář do polštáře a zavřela oči, jak ztuhlá, s Vinšem jsem t
 </section>
 
 <section>
-
-_[^1] Konečně sám. Pozn. red._
-
+[^1]: Konečně sám. Pozn. red.
 </section>
