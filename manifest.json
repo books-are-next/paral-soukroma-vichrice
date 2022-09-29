@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "paral-soukroma-vichrice-6c2cb83",
-  "revision": "6c2cb83",
+  "identifier": "paral-soukroma-vichrice-47837cc",
+  "revision": "47837cc",
   "readingOrder": [
     "promo.html",
     "soukroma_vichrice_005.html",
@@ -19,8 +19,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Aug 01 2022 13:51:34 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1659361894050
+    "date": "Thu Sep 29 2022 21:30:36 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487036465
   },
   "documents": [
     {
@@ -78,9 +78,9 @@
     {
       "title": "Třetí stadium",
       "file": "soukroma_vichrice_009.html",
-      "words": 7293,
-      "chars": 40851,
-      "ideas": 158,
+      "words": 7288,
+      "chars": 40823,
+      "ideas": 157,
       "role": "chapter",
       "order": 3,
       "prev": "soukroma_vichrice_007.html",
@@ -119,7 +119,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 150,
-      "chars": 1001,
+      "chars": 1002,
       "ideas": 18,
       "role": "about",
       "order": null,
@@ -138,14 +138,14 @@
   ],
   "totals": {
     "all": {
-      "words": 40006,
-      "chars": 229407,
-      "ideas": 1080
+      "words": 40001,
+      "chars": 229380,
+      "ideas": 1079
     },
     "chapters": {
-      "words": 39850,
-      "chars": 228364,
-      "ideas": 1058
+      "words": 39845,
+      "chars": 228336,
+      "ideas": 1057
     }
   }
 }
