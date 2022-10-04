@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "paral-soukroma-vichrice-e82d95a",
-  "revision": "e82d95a",
+  "identifier": "paral-soukroma-vichrice-79726a5",
+  "revision": "79726a5",
   "readingOrder": [
     "promo.html",
     "soukroma_vichrice_005.html",
@@ -19,8 +19,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:01:33 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640093714
+    "date": "Tue Oct 04 2022 16:48:55 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902135434
   },
   "documents": [
     {
@@ -78,9 +78,9 @@
     {
       "title": "Třetí stadium",
       "file": "soukroma_vichrice_009.html",
-      "words": 7288,
-      "chars": 40823,
-      "ideas": 157,
+      "words": 7293,
+      "chars": 40846,
+      "ideas": 158,
       "role": "chapter",
       "order": 3,
       "prev": "soukroma_vichrice_007.html",
@@ -138,14 +138,14 @@
   ],
   "totals": {
     "all": {
-      "words": 40001,
-      "chars": 229380,
-      "ideas": 1079
+      "words": 40006,
+      "chars": 229403,
+      "ideas": 1080
     },
     "chapters": {
-      "words": 39845,
-      "chars": 228336,
-      "ideas": 1057
+      "words": 39850,
+      "chars": 228359,
+      "ideas": 1058
     }
   }
 }
